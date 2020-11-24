@@ -28,9 +28,13 @@ A list of image enhancement resources collected by [jinwang pan](https://github.
 
 ## HDR reconstruction
 
+
 ### multi-image HDR reconstruction
 
 - Recovering High Dynamic Range Radiance Maps from Photographs (SIGGRAPH 1997)
+- Burst photography for high dynamic range and low-light imaging on mobile cameras (ACM TOG 2016) [PDF](https://people.csail.mit.edu/hasinoff/pubs/HasinoffEtAl16-hdrplus.pdf) [supp](http://graphics.stanford.edu/papers/hdrp/hasinoff-hdrplus-sigasia16-supp.pdf)
+
+
 
 ### single image HDR reconstruction
 
@@ -53,6 +57,9 @@ A list of image enhancement resources collected by [jinwang pan](https://github.
 
 ## Datasets
 
+### HDR 
+- 
+
 ## Image Quality Assessment
 
 1. **SSIM**
@@ -61,7 +68,21 @@ A list of image enhancement resources collected by [jinwang pan](https://github.
 4. **HDR-VDP** [[code]](http://hdrvdp.sourceforge.net/wiki/)
 
 
+## Blogs
+
+
+
 ## Related Researchers
+
+
+
+## News
+
+- [HDR+: Low Light and High Dynamic Range photography in the Google Camera App](https://ai.googleblog.com/2014/10/hdr-low-light-and-high-dynamic-range.html) Monday, October 27, 2014
+- [Introducing the HDR+ Burst Photography Dataset](https://ai.googleblog.com/2018/02/introducing-hdr-burst-photography.html) Monday, February 12, 2018
+
+
+
 
 
 
