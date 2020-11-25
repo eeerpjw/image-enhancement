@@ -7,33 +7,49 @@ A list of image enhancement resources collected by [jinwang pan](https://github.
 
 ## Low Light Enhancement
 
-### Classical Methods
-- [**LIME**] LIME: Low-light image Enhancement via Illumination Map Estimation （TIP 2017）[[Project page]](https://sites.google.com/view/xjguo/lime)
+### Traditional Methods
+- [**LIME**] LIME: Low-light image Enhancement via Illumination Map Estimation （TIP 2017）[[Project page]](https://sites.google.com/view/xjguo/lime) [[MATLAB code]](https://drive.google.com/open?id=0BwVzAzXoqrSXb3prWUV1YzBjZzg) [[Dataset]](https://drive.google.com/open?id=0BwVzAzXoqrSXb3prWUV1YzBjZzg)
+
+BIMEF(北大深研院)：A Bio-Inspired Multi-Exposure Fusion Framework for Low-light Image Enhancement Project
+
+Ying：A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework Project
+
+LIME：Low-light IMage Enhancement via Illumination Map Estimation Project
+
+NPE：Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images Project
+
+SRIE：A weighted variational model for simultaneous reflectance and illumination estimation Project
+
+MF：A Fusion-based Enhancing Method for Weakly Illuminated Images Projetct
 
 ### Deep Learning Methods
 
-- [**RetinexNet**] Deep Retinex Decomposition for Low-Light Enhancement (BMVC 2018) [[Project page]](https://daooshee.github.io/BMVC2018website/)
-- [**GLADNet**] GLADNet: Low-Light Enhancement Network with Global Awareness. (FG'18 Workshop FOR-LQ 2018) [[Project page]](https://daooshee.github.io/fgworkshop18Gladnet/)
-- [**MBLLEN**] MBLLEN: Low-light Image/Video Enhancement Using CNNs” （BMVC 2018）[[Project page]](https://github.com/Lvfeifan/MBLLEN)
-- Low-Light Image Enhancement via a **Deep Hybrid Network** (TIP 2019) [[Paper]](https://ieeexplore.ieee.org/document/8692732) [[Caffe code]](https://drive.google.com/drive/folders/1Tx6x6m8dkU0HG8h3a02_TiGbGGIh6s8Y)
-- [[**DeepUPE**]] Underexposed Photo Enhancement Using Deep Illumination Estimation （CVPR 2019）[[Tensorflow code]](https://github.com/wangruixing/DeepUPE)
-
+- [**RetinexNet**] Deep Retinex Decomposition for Low-Light Enhancement (BMVC 2018) [[Project page]](https://daooshee.github.io/BMVC2018website/) [[Tensorflow code]](https://github.com/weichen582/RetinexNet) [[Dataset]](https://daooshee.github.io/BMVC2018website/) 
+- [**GLADNet**] GLADNet: Low-Light Enhancement Network with Global Awareness. (FG'18 Workshop FOR-LQ 2018) [[Project page]](https://daooshee.github.io/fgworkshop18Gladnet/) [[Tensorflow code]](https://github.com/weichen582/GLADNet)[[Dataset]](https://daooshee.github.io/fgworkshop18Gladnet/)
+- [**MBLLEN**] MBLLEN: Low-light Image/Video Enhancement Using CNNs (BMVC 2018)[[Project page]](http://phi-ai.org/project/MBLLEN/default.htm) [[Tensorflow code]](https://github.com/Lvfeifan/MBLLEN)
+- [**SID**] Learning to see in the dark (CVPR 2018)[[Project page]](https://cchen156.github.io/SID.html) [[Tensorflow code]](https://github.com/cchen156/Learning-to-See-in-the-Dark) [[Dataset]](https://github.com/cchen156/Learning-to-See-in-the-Dark)
+- Deep Photo Enhancer (CVPR 2018 spotlight) [[Github]](https://github.com/nothinglo/Deep-Photo-Enhancer) [[PDF]](https://www.csie.ntu.edu.tw/~cyy/publications/papers/Chen2018DPE.pdf)
+- Low-Light Image Enhancement via a **Deep Hybrid Network** (TIP 2019) [[PDF]](https://ieeexplore.ieee.org/document/8692732) [[Caffe code]](https://drive.google.com/drive/folders/1Tx6x6m8dkU0HG8h3a02_TiGbGGIh6s8Y)
+- [**DeepUPE**] Underexposed Photo Enhancement Using Deep Illumination Estimation （CVPR 2019）[[Tensorflow code]](https://github.com/wangruixing/DeepUPE)
+- Progressive Retinex: Mutually Reinforced Illumination-Noise Perception Network for Low Light Image Enhancement (ACMMM2019) [[PDF]](https://arxiv.org/pdf/1911.11323.pdf)
 - [**KinD**] Kindling the Darkness: A Practical Low-light Image Enhancer （ACM MM 2019）[[Tensorflow code]](https://github.com/zhangyhuaee/KinD)
+- [**RDGAN**] RDGAN: Retinex Decomposition Based Adversarial Learning for Low-Light Enhancement (ICME 2019) [[Tensorflow code]](https://github.com/WangJY06/RDGAN)
 - [**Zero-DCE**] Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement (CVPR2020) [[PyTorch code]](https://github.com/Li-Chongyi/Zero-DCE)
 
 
 ## Contrast Enhancement
-
+- [[**SICE**]] Learning a Deep Single Image Contrast Enhancer from Multi-Exposure Images (TIP 2018) [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SICE.pdf) [[Caffe code]](https://github.com/csjcai/SICE) [[Dataset]](https://github.com/csjcai/SICE)
 
 ## Tone Mapping
 
 ## HDR reconstruction
 
 
-### multi-image HDR reconstruction
+### Multi-image HDR reconstruction
 
 - Recovering High Dynamic Range Radiance Maps from Photographs (SIGGRAPH 1997)
-- Burst photography for high dynamic range and low-light imaging on mobile cameras (ACM TOG 2016) [PDF](https://people.csail.mit.edu/hasinoff/pubs/HasinoffEtAl16-hdrplus.pdf) [supp](http://graphics.stanford.edu/papers/hdrp/hasinoff-hdrplus-sigasia16-supp.pdf)
+- Burst photography for high dynamic range and low-light imaging on mobile cameras (ACM TOG 2016) [[PDF]](https://people.csail.mit.edu/hasinoff/pubs/HasinoffEtAl16-hdrplus.pdf) [[supp]](http://graphics.stanford.edu/papers/hdrp/hasinoff-hdrplus-sigasia16-supp.pdf)
+- Deep Snapshot HDR Imaging Using Multi-Exposure Color Filter Array (ACVV 2020) [[Project page]](http://www.ok.sc.e.titech.ac.jp/res/DSHDR/) [[PDF]](http://www.ok.sc.e.titech.ac.jp/res/DSHDR/data/ACCV2020.pdf) 
 
 
 
@@ -57,7 +73,7 @@ A list of image enhancement resources collected by [jinwang pan](https://github.
 
 
 ## Datasets
-
+Follow the link [Datasets](Datasets/README.md)
 
 ## Metrics
 
@@ -71,11 +87,13 @@ A list of image enhancement resources collected by [jinwang pan](https://github.
 
 
 ## Related Researchers
+- [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/)
+  
 - [Kede Ma](https://ece.uwaterloo.ca/~k29ma/)
   - MEF 
   - Image Quality Assessment 
 - [Wenqi Ren(任文琦)](https://sites.google.com/site/renwenqi888/)
-  - low-light、Dehazing、Deraining
+  - low-light, Dehazing, Deraining
   - Underwater image enhancement
 - [Chongyi Li(李重仪)](https://li-chongyi.github.io)
   - image and video restoration and enhancement: 1) images and videos captured in adverse weather (hazy, foggy, sandy, dusty, rainy, snowy day), 2) or special circumstances (underwater, weak illumination), 3) general photo enhancement, 4) image/depth super-resolution.
@@ -97,6 +115,7 @@ A list of image enhancement resources collected by [jinwang pan](https://github.
 - [daooshee/Image-Processing-Datasets](https://github.com/daooshee/Image-Processing-Datasets)
 - https://paperswithcode.com/task/low-light-image-enhancement
 - [dawnlh/low-light-image-enhancement-resources](https://github.com/dawnlh/low-light-image-enhancement-resources)
+- [rockeyben/Low-Light](https://github.com/rockeyben/Low-Light)
 - [简介近期的一些基于深度学习的图像/视频增强方法](https://zhuanlan.zhihu.com/p/164328373)
 
 

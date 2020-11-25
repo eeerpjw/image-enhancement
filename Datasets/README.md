@@ -60,7 +60,8 @@
   - 4 synthetic images: [Download (445 kB)](http://mcl.korea.ac.kr/projects/LDR/LDR_TEST_IMAGES_SYNTHETIC.zip)
 
   
-
+## Multi-exposure Image Dataset
+- [[SICE]](https://github.com/csjcai/SICE)
 
 ## HDR reconstruction
 
