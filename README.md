@@ -43,6 +43,10 @@ MF：A Fusion-based Enhancing Method for Weakly Illuminated Images Projetct
 ## Contrast Enhancement
 - [**SICE**] Learning a Deep Single Image Contrast Enhancer from Multi-Exposure Images (TIP 2018) [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SICE.pdf) [[Caffe code]](https://github.com/csjcai/SICE) [[Dataset]](https://github.com/csjcai/SICE)
 
+## Multi-Exposure Fusion
+- [**EEMEFN**] EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network (AAAI 2020) [[Project page]](https://zjuvag.org/publications/eemefn/)
+
+
 ## Tone Mapping
 
 ## HDR reconstruction
