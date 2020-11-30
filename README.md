@@ -1,11 +1,12 @@
 # Image Enhancement
+
 [comment]:<> (Anchor for Back to top)
 <a id="head"/>
 
 A list of image enhancement resources collected by [jinwang pan](https://github.com/eeerpjw)
 
 
-## [Low Light Enhancement](low-light/README.md)
+## Low Light Enhancement
 Follow the link [low light enhancement](low-light/README.md)
 
 
@@ -96,7 +97,8 @@ Follow the link [Datasets](Datasets/README.md)
 - [OpenCE](https://github.com/baidut/OpenCE)
 - [daooshee/Image-Processing-Datasets](https://github.com/daooshee/Image-Processing-Datasets)
 - https://paperswithcode.com/task/low-light-image-enhancement
-- [dawnlh/low-light-image-enhancement-resources](https://github.com/dawnlh/low-light-image-enhancement-resources)
+- [zhangzhihong/low-light-image-enhancement-resources](https://github.com/zhangzhihong/low-light-image-enhancement-resources)
+- [pvnieo/low-light-image-enhancement-resources](https://github.com/pvnieo/low-light-image-enhancement-resources)
 - [rockeyben/Low-Light](https://github.com/rockeyben/Low-Light)
 - [简介近期的一些基于深度学习的图像/视频增强方法](https://zhuanlan.zhihu.com/p/164328373)
 

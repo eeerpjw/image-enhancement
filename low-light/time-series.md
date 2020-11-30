@@ -1,10 +1,9 @@
 
 This is a deatiled file tracks works on low light & contrast enhancement by time. All the papers and codes will be collected here.
-[comment]:<> (Anchor for Back to top)
 
+[comment]:<> (Anchor for Back to top)
 <span id="head"></span>
 # low-light
-
 
 ## 2020
 
@@ -12,32 +11,31 @@ This is a deatiled file tracks works on low light & contrast enhancement by time
 - Gilroy S P, O’Dwyer J, Bortoleto L C. **Characterisation of CMOS Image Sensor Performance in Low Light Automotive Applications**
     - [[arxiv:2011.12436]](https://arxiv.org/abs/2011.12436)
 
-- Guo C, Li C, Guo J, et al. **Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement[C]** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 1780-1789.(CVPR2020) 
+- Guo C, Li C, Guo J, et al. **Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement**[C] Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 1780-1789.(CVPR2020) 
     - [[PyTorch code]](https://github.com/Li-Chongyi/Zero-DCE)
 
 ### Date Before November
 
-- Kim H U, Koh Y J, Kim C S. **Global and Local Enhancement Networks for Paired and Unpaired Image Enhancement[C]** European Conference on Computer Vision. Springer, Cham, 2020: 339-354.
+- Kim H U, Koh Y J, Kim C S. **Global and Local Enhancement Networks for Paired and Unpaired Image Enhancement**[C] European Conference on Computer Vision. Springer, Cham, 2020: 339-354.
     - [[Project page]](http://mcl.korea.ac.kr/research/hukim-eccv2020-glenet/) [[PDF]](http://mcl.korea.ac.kr/research/hukim-eccv2020-glenet/5010.pdf)
     ![ded](./fig/kim2020global.png)
 
-- Chan S H. Dynamic Low-light Imaging with Quanta Image Sensors[J]. 2020.
-    - [[PDF]](https://engineering.purdue.edu/ChanGroup/project_QIS.html) [[Quanta Image Sensor project page]](https://engineering.purdue.edu/ChanGroup/project_QIS.html)
+- Chan S H. **Dynamic Low-light Imaging with Quanta Image Sensors**[J]. ECCV 2020.
+    - [[PDF]](https://arxiv.org/PDF/2007.08614.pdf) [[Quanta Image Sensor project page]](https://engineering.purdue.edu/ChanGroup/project_QIS.html)
     - 量子成像去噪，跟自然图像其实不是很相关
 
 <span id="idDALE"></span>
-- Kwon D, Kim G, Kwon J. DALE: Dark Region-Aware Low-light Image Enhancement[J]. arXiv preprint arXiv:2008.12493, 2020.
+
+- Kwon D, Kim G, Kwon J. **DALE: Dark Region-Aware Low-light Image Enhancement**[J]. arXiv preprint arXiv:2008.12493, 2020.
     - [Github](https://github.com/dokyeongK/DALE) with no code release.
     - <a href="#idlow-lightgan">`low-lightgan`</a>
-
-
 
 - Kosugi S, Yamasaki T. **Unpaired image enhancement featuring reinforcement-learning-controlled image editing software[C]** **Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(07): 11296-11303.
     - [[PDF]](https://arxiv.org/pdf/1912.07833.pdf) [[Python code]](https://github.com/satoshi-kosugi/Unpaired-Image-Enhancement) based on [chainer_spiral](https://github.com/DwangoMediaVillage/chainer_spiral)
 
 ## 2019
 
-- Ren, Wenqi, et al. **"Low-light image enhancement via a deep hybrid network."** IEEE Transactions on Image Processing 28.9 (2019): 4364-4375.
+- Ren, Wenqi, et al. **Low-light image enhancement via a deep hybrid network** IEEE Transactions on Image Processing 28.9 (2019): 4364-4375.
     - [[PDF]](https://ieeexplore.ieee.org/document/8692732) [[Caffe code]](https://drive.google.com/drive/folders/1Tx6x6m8dkU0HG8h3a02_TiGbGGIh6s8Y)
 > weighted spatially variant RNN
 > 
@@ -53,15 +51,14 @@ This is a deatiled file tracks works on low light & contrast enhancement by time
 > 其中，g是与p互相独立的weight map。这样$h[k]$和$h[k-1]$可以互相独立，这取决于$p[k]$:小的时候$h[k]$和$h[k-1]$关系不大，可以保边；反之，若是p大，可以继续保持平滑。psnr平均提升不到1个点
 
 - Zhang, Yonghua, Jiawan Zhang, and Xiaojie Guo. **"Kindling the darkness: A practical low-light image enhancer."** Proceedings of the 27th ACM International Conference on Multimedia. 2019.
-    - [[Tensorflow code]](https://github.com/zhangyhuaee/KinD) [pdf](https://arxiv.org/pdf/1905.04161.pdf)
+    - [[Tensorflow code]](https://github.com/zhangyhuaee/KinD) [[pdf]](https://arxiv.org/pdf/1905.04161.pdf)
 
 
 - Wang, Ruixing, et al. **"Underexposed photo enhancement using deep illumination estimation."** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
     - [[Tensorflow code]](https://github.com/wangruixing/DeepUPE)
 
 - Wang, Yang, et al. **"Progressive Retinex: Mutually Reinforced Illumination-Noise Perception Network for Low-Light Image Enhancement."** Proceedings of the 27th ACM International Conference on Multimedia. 2019.
-    - [pdf](https://arxiv.org/pdf/1911.11323.pdf)
-    - [slides(non-official)](http://39.96.165.147/Seminar/MinhaoFan_200308.pdf)
+    - [pdf](https://arxiv.org/pdf/1911.11323.pdf) [slides(non-official)](http://39.96.165.147/Seminar/MinhaoFan_200308.pdf)
 
 > 文章强调了：图像暗部的噪声与亮度是有相关性的，越暗噪声越多。
 > 
@@ -116,13 +113,16 @@ This is a deatiled file tracks works on low light & contrast enhancement by time
 - Maharjan P, Li L, Li Z, et al. **Improving extreme low-light image denoising via residual learning[C]** 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019: 916-921.
     - [[PDF]](http://chongyangma.com/publications/ie/2019_ie_preprint.pdf)
     - 去噪
-
+- Learning to See Moving Objects in the Dark. ICCV 2019 
+    - [[TensorFlow code]](https://github.com/MichaelHYJiang/Learning-to-See-Moving-Objects-in-the-Dark)
 ## 2018
 
 - Wei, Chen, et al. **"Deep retinex decomposition for low-light enhancement." BMVC. 2018.**
     - [[Project page]](https://daooshee.github.io/BMVC2018website/) [[Tensorflow code]](https://github.com/weichen582/RetinexNet) [[Dataset]](https://daooshee.github.io/BMVC2018website/) 
+
 - Wang, Wenjing, et al. **"GLADNet: Low-light enhancement network with global awareness."** 2018 13th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2018). IEEE, 2018.
     - [[Project page]](https://daooshee.github.io/fgworkshop18Gladnet/) [[Tensorflow code]](https://github.com/weichen582/GLADNet)[[Dataset]](https://daooshee.github.io/fgworkshop18Gladnet/)
+    
 - Lv, Feifan, et al. **"MBLLEN: Low-Light Image/Video Enhancement Using CNNs."** BMVC. 2018.
     - [[Project page]](http://phi-ai.org/project/MBLLEN/default.htm) [[Tensorflow code]](https://github.com/Lvfeifan/MBLLEN)
 > 主要内容：
@@ -139,7 +139,7 @@ This is a deatiled file tracks works on low light & contrast enhancement by time
 > 改为视频的：FEM变成3D卷积
 - Chen, Chen, et al. **"Learning to see in the dark."** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
     - [[Project page]](https://cchen156.github.io/SID.html) [[Tensorflow code]](https://github.com/cchen156/Learning-to-See-in-the-Dark) [[Dataset]](https://github.com/cchen156/Learning-to-See-in-the-Dark)
-- Chen, Yu-Sheng, et al. **"Deep photo enhancer: Unpaired learning for image enhancement from photographs with gans."** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. (spotlight)
+- Chen, Yu-Sheng, et al. **"Deep photo enhancer: Unpaired learning for image enhancement from photographs with gans."** CVPR 2018. (spotlight)
     - [[Github]](https://github.com/nothinglo/Deep-Photo-Enhancer) [[PDF]](https://www.csie.ntu.edu.tw/~cyy/publications/papers/Chen2018DPE.pdf) [[project]](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/)
 > Unpair增强,不是low-light的
 >
@@ -149,19 +149,19 @@ This is a deatiled file tracks works on low light & contrast enhancement by time
 > 2. 对WGAN进行改进，可以自动调整其权重系数
 > 3. 在生成器中添加可以学习特定风格的individual BN层
 
-- Ignatov A, Kobyshev N, Timofte R, et al. **WESPE: weakly supervised photo enhancer for digital cameras[C]** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018: 691-700. 
+- Ignatov A, Kobyshev N, Timofte R, et al. **WESPE: weakly supervised photo enhancer for digital cameras[C]** CVPRW 2018: 691-700. 
     - [[project]](http://people.ee.ethz.ch/~ihnatova/wespe.html)
 
-- Cai J, Gu S, Zhang L. Learning a deep single image contrast enhancer from multi-exposure images[J]. IEEE Transactions on Image Processing, 2018, 27(4): 2049-2062.
+- Cai J, Gu S, Zhang L. **Learning a deep single image contrast enhancer from multi-exposure images**[J]. TIP 2018, 27(4): 2049-2062.
     - [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SICE.pdf) [[Caffe code]](https://github.com/csjcai/SICE) [[SICE Dataset]](https://github.com/csjcai/SICE)
 
 ## 2017
 
-- Guo X, Li Y, Ling H. **LIME: Low-light image enhancement via illumination map estimation[J]**. IEEE Transactions on image processing, 2016, 26(2): 982-993.  TIP 2017 / ACM MM 2016
+- Guo X, Li Y, Ling H. **LIME: Low-light image enhancement via illumination map estimation[J]**. TIP 2016, 26(2): 982-993.  TIP 2017 / ACM MM 2016
     - [[Project page]](https://sites.google.com/view/xjguo/lime) [[MATLAB code]](https://drive.google.com/open?id=0BwVzAzXoqrSXb3prWUV1YzBjZzg) [[Dataset]](https://drive.google.com/open?id=0BwVzAzXoqrSXb3prWUV1YzBjZzg) [[PDF]](https://www3.cs.stonybrook.edu/~hling/publication/LIME-tip.pdf)
 
-- A New Low-Light Image Enhancement Algorithm using Camera Response Model 
-    - [[PDF]](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w43/Ying_A_New_Low-Light_ICCV_2017_paper.pdf)
+- Ying Z, Li G, Ren Y, et al. **A new low-light image enhancement algorithm using camera response model** ICCVW 2017
+    - [[PDF]](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w43/Ying_A_New_Low-Light_ICCV_2017_paper.pdf) [[Project page]](https://baidut.github.io/2017/09/01/iccvw2017/) [[Matlab code]](https://baidut.github.io/2017/09/01/iccvw2017/)
 
 - Ying Z, Li G, Ren Y, et al. **A new image contrast enhancement algorithm using exposure fusion framework**[C] International Conference on Computer Analysis of Images and Patterns. Springer, Cham, 2017: 36-46.
     - [Project]](https://baidut.github.io/2017/08/22/caip2017fuse2/) [[Matlab code]](https://baidut.github.io/2017/08/22/caip2017fuse2/)

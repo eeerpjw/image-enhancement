@@ -9,16 +9,16 @@ A list of low light image reconstruction related works. Recent works, which is a
 
 - A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework [[Project]](https://baidut.github.io/2017/08/22/caip2017fuse2/) [[Matlab code]](https://baidut.github.io/2017/08/22/caip2017fuse2/)
 
-- [**NPE**] Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images (TIOP 2013)Project [[Project page]](http://blog.sina.com.cn/s/blog_a0a06f190101cvon.html) [[Matlab code]](https://s/096l3uy9vowgs4r/Code.rar) [[NPE dataset]](http://s/39gjz7oe1a0rlhk/original%20images%20in%20the%20paper.rar)
+- [**NPE**] Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images (TIOP 2013) [[Project page]](http://blog.sina.com.cn/s/blog_a0a06f190101cvon.html) [[Matlab code]](https://s/096l3uy9vowgs4r/Code.rar) [[NPE dataset]](http://s/39gjz7oe1a0rlhk/original%20images%20in%20the%20paper.rar)
 
-- [**SRIE**] A weighted variational model for simultaneous reflectance and illumination estimation (CVPR 2016)[[PDF]](https://xueyangfu.github.io/paper/2016/cvpr/cvpr2016.pdf) [[Matlab code]](https://xueyangfu.github.io/paper/2016/cvpr/Matlab_implementation.zip) [Xueyang Fu (傅雪阳)](https://xueyangfu.github.io/)
+- [**SRIE**] A weighted variational model for simultaneous reflectance and illumination estimation (CVPR 2016) [[PDF]](https://xueyangfu.github.io/paper/2016/cvpr/cvpr2016.pdf) [[Matlab code]](https://xueyangfu.github.io/paper/2016/cvpr/Matlab_implementation.zip) [[Xueyang Fu (傅雪阳)]](https://xueyangfu.github.io/)
 
 - [**MF**] A Fusion-based Enhancing Method for Weakly Illuminated Images (TIP 2013) [[Project page]](https://xueyangfu.github.io/projects/sp2016.html) [[PDF]](https://xueyangfu.github.io/paper/2016/SP/SP2016.pdf) [[Matlab code]](https://xueyangfu.github.io/paper/2016/SP/Matlab_code.zip)
 
 ## Deep Learning Methods
 
 - [**RetinexNet**] Deep Retinex Decomposition for Low-Light Enhancement (BMVC 2018) [[Project page]](https://daooshee.github.io/BMVC2018website/) [[Tensorflow code]](https://github.com/weichen582/RetinexNet) [[Dataset]](https://daooshee.github.io/BMVC2018website/) 
-- [**GLADNet**] GLADNet: Low-Light Enhancement Network with Global Awareness. (FG'18 Workshop FOR-LQ 2018) [[Project page]](https://daooshee.github.io/fgworkshop18Gladnet/) [[Tensorflow code]](https://github.com/weichen582/GLADNet)[[Dataset]](https://daooshee.github.io/fgworkshop18Gladnet/)
+- [**GLADNet**] GLADNet: Low-Light Enhancement Network with Global Awareness. (FG'18 Workshop FOR-LQ 2018) [[Project page]](https://daooshee.github.io/fgworkshop18Gladnet/) [[Tensorflow code]](https://github.com/weichen582/GLADNet) [[Dataset]](https://daooshee.github.io/fgworkshop18Gladnet/)
 - [**MBLLEN**] MBLLEN: Low-light Image/Video Enhancement Using CNNs (BMVC 2018)[[Project page]](http://phi-ai.org/project/MBLLEN/default.htm) [[Tensorflow code]](https://github.com/Lvfeifan/MBLLEN)
 - [**SID**] Learning to see in the dark (CVPR 2018)[[Project page]](https://cchen156.github.io/SID.html) [[Tensorflow code]](https://github.com/cchen156/Learning-to-See-in-the-Dark) [[Dataset]](https://github.com/cchen156/Learning-to-See-in-the-Dark)
 - Deep Photo Enhancer (CVPR 2018 spotlight) [[Github]](https://github.com/nothinglo/Deep-Photo-Enhancer) [[PDF]](https://www.csie.ntu.edu.tw/~cyy/publications/papers/Chen2018DPE.pdf)
