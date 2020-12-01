@@ -5,7 +5,6 @@
 
 A list of image enhancement resources collected by [jinwang pan](https://github.com/eeerpjw)
 
-
 ## Low Light Enhancement
 Follow the link [low light enhancement](low-light/README.md)
 
