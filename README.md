@@ -12,7 +12,7 @@ Follow the link [low light enhancement](low-light/README.md)
 ## Contrast Enhancement
 - [**SICE**] Learning a Deep Single Image Contrast Enhancer from Multi-Exposure Images (TIP 2018) [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SICE.pdf) [[Caffe code]](https://github.com/csjcai/SICE) [[Dataset]](https://github.com/csjcai/SICE)
 - Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software (AAAI 2020) [[PDF]](https://arxiv.org/pdf/1912.07833.pdf) [[Python code]](https://github.com/satoshi-kosugi/Unpaired-Image-Enhancement) based on [chainer_spiral](https://github.com/DwangoMediaVillage/chainer_spiral)
-
+- [**DPED**] DSLR-Quality Photos on Mobile Devices with Deep Convolutional Network (ICCV 2017)[[Project page]](https://people.ee.ethz.ch/~ihnatova/)
 
 ## Multi-Exposure Fusion
 - [**EEMEFN**] EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network (AAAI 2020) [[Project page]](https://zjuvag.org/publications/eemefn/)
@@ -97,7 +97,7 @@ Follow the link [Datasets](Datasets/README.md)
 - [daooshee/Image-Processing-Datasets](https://github.com/daooshee/Image-Processing-Datasets)
 - https://paperswithcode.com/task/low-light-image-enhancement
 - [zhangzhihong/low-light-image-enhancement-resources](https://github.com/zhangzhihong/low-light-image-enhancement-resources)
-- [pvnieo/low-light-image-enhancement-resources](https://github.com/pvnieo/low-light-image-enhancement-resources)
+- [cxtalk/You-Can-See-Clearly-Now](https://github.com/cxtalk/You-Can-See-Clearly-Now)
 - [rockeyben/Low-Light](https://github.com/rockeyben/Low-Light)
 - [简介近期的一些基于深度学习的图像/视频增强方法](https://zhuanlan.zhihu.com/p/164328373)
 
