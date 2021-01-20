@@ -90,16 +90,7 @@ Follow the link [Datasets](Datasets/README.md)
 
 
 
-## Helpful repositories, links and blogs
 
-- [baidut/BIMEF](https://github.com/baidut/BIMEF)
-- [OpenCE](https://github.com/baidut/OpenCE)
-- [daooshee/Image-Processing-Datasets](https://github.com/daooshee/Image-Processing-Datasets)
-- https://paperswithcode.com/task/low-light-image-enhancement
-- [zhangzhihong/low-light-image-enhancement-resources](https://github.com/zhangzhihong/low-light-image-enhancement-resources)
-- [cxtalk/You-Can-See-Clearly-Now](https://github.com/cxtalk/You-Can-See-Clearly-Now)
-- [rockeyben/Low-Light](https://github.com/rockeyben/Low-Light)
-- [简介近期的一些基于深度学习的图像/视频增强方法](https://zhuanlan.zhihu.com/p/164328373)
 
 
 

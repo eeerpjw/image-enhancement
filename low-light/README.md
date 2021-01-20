@@ -2,6 +2,11 @@
 
 A list of low light image reconstruction related works. 
 
+## Hight Review
+
+Liu, J., Xu, D., Yang, W., Fan, M. and Huang, H., Benchmarking Low-Light Image Enhancement and Beyond. International Journal of Computer Vision, pp.1-32.
+
+
 ## Traditional Methods
 - [**LIME**] LIME: Low-light image Enhancement via Illumination Map Estimation (TIP 2017/ ACM 2016)[[Project page]](https://sites.google.com/view/xjguo/lime) [[MATLAB code]](https://drive.google.com/open?id=0BwVzAzXoqrSXb3prWUV1YzBjZzg) [[Dataset]](https://drive.google.com/open?id=0BwVzAzXoqrSXb3prWUV1YzBjZzg) [[PDF]](https://www3.cs.stonybrook.edu/~hling/publication/LIME-tip.pdf)
 
@@ -38,5 +43,15 @@ A list of low light image reconstruction related works.
 ## Applications
 
 
+## Helpful repositories, links and blogs
+
+- [baidut/BIMEF](https://github.com/baidut/BIMEF)
+- [OpenCE](https://github.com/baidut/OpenCE)
+- [daooshee/Image-Processing-Datasets](https://github.com/daooshee/Image-Processing-Datasets)
+- https://paperswithcode.com/task/low-light-image-enhancement
+- [dawnlh/low-light-image-enhancement-resources](https://github.com/dawnlh/low-light-image-enhancement-resources)
+- [cxtalk/You-Can-See-Clearly-Now](https://github.com/cxtalk/You-Can-See-Clearly-Now)
+- [rockeyben/Low-Light](https://github.com/rockeyben/Low-Light)
+- [简介近期的一些基于深度学习的图像/视频增强方法](https://zhuanlan.zhihu.com/p/164328373)
 
 
