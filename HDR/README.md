@@ -5,8 +5,6 @@
 
 ### Multiple Images HDR Reconstruction
 
-- Recovering High Dynamic Range Radiance Maps from Photographs (SIGGRAPH 1997)
-- Burst photography for high dynamic range and low-light imaging on mobile cameras (ACM TOG 2016) [[PDF]](https://people.csail.mit.edu/hasinoff/pubs/HasinoffEtAl16-hdrplus.pdf) [[supp]](http://graphics.stanford.edu/papers/hdrp/hasinoff-hdrplus-sigasia16-supp.pdf)
 - Deep High Dynamic Range Imaging of Dynamic Scenes (SIGGRAPH 2017) [[Project Page with Dataset and Code]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/) 
 - [**DeepHDR**]Deep High Dynamic Range Imaging with Large Foreground Motions （ECCV 2018）[[TensorFlow code]](https://github.com/elliottwu/DeepHDR)
 - [**AHDRNet**] Attention-guided network for ghost-free high dynamic range imaging (CVPR 2019) [[PyTorch Code]](https://github.com/qingsenyangit/AHDRNet)
@@ -22,18 +20,22 @@
 
 - [**HDRCNN**] HDR image reconstruction from a single exposure using deep CNNs (TOG 2017） [[Tensorflow code]](https://github.com/gabrieleilertsen/hdrcnn)
 
-- [**MRF-based**] Unbounded high dynamic range photography using a modulo camera (ICCP 2015 Best Paper) [[Project page]](https://web.media.mit.edu/~hangzhao/modulo.html)
 
--
 - Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (CVPR2020) [[Tensorflow code]](https://github.com/alex04072000/SingleHDR)
 
 ### Computional Imaging based Deep Learning Methods
-- Deep Optics for Single-Shot High-Dynamic-Range Imaging(CVPR2020)
-- Learning Rank-1 Diffractive Optics for Single-Shot High Dynamic Range Imaging(CVPR2020)
-- Neuromorphic Camera Guided High Dynamic Range Imaging(CVPR2020)
+- Deep Optics for Single-Shot High-Dynamic-Range Imaging (CVPR2020)
+- Learning Rank-1 Diffractive Optics for Single-Shot High Dynamic Range Imaging (CVPR2020)
+- Neuromorphic Camera Guided High Dynamic Range Imaging (CVPR2020)
+
 ### Traditional Methods
+- Recovering High Dynamic Range Radiance Maps from Photographs (SIGGRAPH 1997)
+
 - Robust Patch-Based HDR Reconstruction of Dynamic Scenes (TOG 2012) [[Project Page with MATLAB code]](https://web.ece.ucsb.edu/~psen/hdrvideo)
 
+- [**MRF-based**] Unbounded high dynamic range photography using a modulo camera (ICCP 2015 Best Paper) [[Project page]](https://web.media.mit.edu/~hangzhao/modulo.html)
+
+- Burst photography for high dynamic range and low-light imaging on mobile cameras (ACM TOG 2016) [[PDF]](https://people.csail.mit.edu/hasinoff/pubs/HasinoffEtAl16-hdrplus.pdf) [[supp]](http://graphics.stanford.edu/papers/hdrp/hasinoff-hdrplus-sigasia16-supp.pdf)
 ### HDR Video
 - Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks (CVPR 2019)
 
