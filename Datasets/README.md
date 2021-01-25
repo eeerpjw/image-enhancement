@@ -66,8 +66,10 @@
 - [[SICE]](https://github.com/csjcai/SICE)
 
 ## HDR reconstruction
-
-
+- [[HdM HDR]](https://www.hdm-stuttgart.de/vmlab/hdm-hdr-2014)
+- [[NTIRE 2021 HDR]](https://competitions.codalab.org/competitions/28161)
+- [[CVPR 2020 Single HDR]](https://github.com/alex04072000/SingleHDR)
+- [[Kalantari SIG17HDR]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
 ## Underwater Image Enhancement
 
 
