@@ -1,7 +1,7 @@
 
 
 ## HDR reconstruction
-- Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline （CVPR2020）[[Project page]](https://alex04072000.github.io/SingleHDR/) [[TensorFlow code]](https://github.com/alex04072000/SingleHDR) [[Very Large Dataset]](https://alex04072000.github.io/SingleHDR/)
+
 
 ### Multiple Images HDR Reconstruction
 
@@ -10,6 +10,8 @@
 - [**AHDRNet**] Attention-guided network for ghost-free high dynamic range imaging (CVPR 2019) [[PyTorch Code]](https://github.com/qingsenyangit/AHDRNet)
 - Deep Snapshot HDR Imaging Using Multi-Exposure Color Filter Array (ACVV 2020) [[Project page]](http://www.ok.sc.e.titech.ac.jp/res/DSHDR/) [[PDF]](http://www.ok.sc.e.titech.ac.jp/res/DSHDR/data/ACCV2020.pdf)
 - [**NHDRRNet**] Deep HDR Imaging via A Non-Local Network (TIP 2020) [[TensorFlow code]](https://github.com/tuvovan/NHDRRNet)
+
+
 ### Single Image HDR Reconstruction
 
 - [**UnModNet**] UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging (NeurIPS 2020) [[PyTorch code]](https://github.com/fourson/UnModNet)
@@ -20,8 +22,7 @@
 
 - [**HDRCNN**] HDR image reconstruction from a single exposure using deep CNNs (TOG 2017） [[Tensorflow code]](https://github.com/gabrieleilertsen/hdrcnn)
 
-
-- Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (CVPR2020) [[Tensorflow code]](https://github.com/alex04072000/SingleHDR)
+- Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline （CVPR2020）[[Project page]](https://alex04072000.github.io/SingleHDR/) [[TensorFlow code]](https://github.com/alex04072000/SingleHDR) [[Very Large Dataset]](https://alex04072000.github.io/SingleHDR/)
 
 ### Computional Imaging based Deep Learning Methods
 - Deep Optics for Single-Shot High-Dynamic-Range Imaging (CVPR2020)
@@ -39,13 +40,19 @@
 ### HDR Video
 - Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks (CVPR 2019)
 
+## Metrics
+- **HDR-VDP** [[code]](http://hdrvdp.sourceforge.net/wiki/)
+- **PSNR** Compute the PSNR values for images after tonemapping using:
+    - $\mu$-law (PSNR-$\mu$)
+    - Matlab function tonemap (PSNR-M)
+    - Linear (PSNR-L)
+
 ## Tools
 
 - [HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave](https://github.com/banterle/HDR_Toolbox)
 - [openhdr.org](https://viewer.openhdr.org). An online HDR image viewer which also has tone mapping functionality.
 - Adobe PhotoShop 
 - OpenCV
-
 
 ## Links
 - [[vinthony/awesome-deep-hdr]](https://github.com/vinthony/awesome-deep-hdr)

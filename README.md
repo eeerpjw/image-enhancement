@@ -29,21 +29,6 @@ Follow the link [low light enhancement](HDR/README.md)
 ## Datasets
 Follow the link [Datasets](Datasets/README.md)
 
-## Metrics
-
-1. **SSIM**
-2. **PSNR**
-3. **NIQE** [[code]](https://github.com/csjunxu/Bovik_NIQE_SPL2013)
-4. **HDR-VDP** [[code]](http://hdrvdp.sourceforge.net/wiki/)
-5. **LOE**
-6. **VIF**
-
-
-
-
-
-
-
 ## Related Researchers
 - [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/)
   
