@@ -7,8 +7,8 @@
 
 - Deep High Dynamic Range Imaging of Dynamic Scenes (SIGGRAPH 2017) [[Project Page with Dataset and Code]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/) 
 - [**DeepHDR**]Deep High Dynamic Range Imaging with Large Foreground Motions （ECCV 2018）[[TensorFlow code]](https://github.com/elliottwu/DeepHDR)
-- [**AHDRNet**] Attention-guided network for ghost-free high dynamic range imaging (CVPR 2019) [[PyTorch Code]](https://github.com/qingsenyangit/AHDRNet)
-- Deep Snapshot HDR Imaging Using Multi-Exposure Color Filter Array (ACVV 2020) [[Project page]](http://www.ok.sc.e.titech.ac.jp/res/DSHDR/) [[PDF]](http://www.ok.sc.e.titech.ac.jp/res/DSHDR/data/ACCV2020.pdf)
+- [**AHDRNet**] Attention-guided network for ghost-free high dynamic range imaging (CVPR 2019) [[PyTorch Code (Incomplete)]](https://github.com/qingsenyangit/AHDRNet)
+- Deep Snapshot HDR Imaging Using Multi-Exposure Color Filter Array (ACVV 2020) [[Project page (Without code)]](http://www.ok.sc.e.titech.ac.jp/res/DSHDR/) [[PDF]](http://www.ok.sc.e.titech.ac.jp/res/DSHDR/data/ACCV2020.pdf)
 - [**NHDRRNet**] Deep HDR Imaging via A Non-Local Network (TIP 2020) [[TensorFlow code]](https://github.com/tuvovan/NHDRRNet)
 
 

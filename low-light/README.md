@@ -50,7 +50,7 @@ Liu, J., Xu, D., Yang, W., Fan, M. and Huang, H., Benchmarking Low-Light Image E
 ## Applications
 
 
-## Helpful repositories, links and blogs
+## Links
 
 - [baidut/BIMEF](https://github.com/baidut/BIMEF)
 - [OpenCE](https://github.com/baidut/OpenCE)
