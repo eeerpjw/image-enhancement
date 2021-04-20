@@ -34,6 +34,12 @@
   - 5,000 images
   - DNG format
   - Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs (with ~4% low light images)
+-[[DNIM (Day-Night Matching)]](http://users.umiacs.umd.edu/~hzhou/dnim.html)
+  - There are 17 image sequences containing 1722 images in total with the time stamp for each of these images
+  - Evaluating Local Features for Day-Night Matching
+  - N. Jacobs, N. Roman and R. Pless. Consistent temporal variations in many outdoor scenes. In: CVPR (2007)
+  - H. Zhou, T. Sattler and D. Jacobs. Evaluating Local Features for Day-Night Matching. In: ECCV workshop (2016)
+
 
 ### Datasets for Test
 - [[VV]](https://sites.google.com/site/vonikakis/datasets/challenging-dataset-for-enhancement)

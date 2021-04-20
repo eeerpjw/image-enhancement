@@ -33,6 +33,7 @@ Liu, J., Xu, D., Yang, W., Fan, M. and Huang, H., Benchmarking Low-Light Image E
 - Progressive Retinex: Mutually Reinforced Illumination-Noise Perception Network for Low Light Image Enhancement (ACMMM2019) [[PDF]](https://arxiv.org/pdf/1911.11323.pdf)
 - [**KinD**] Kindling the Darkness: A Practical Low-light Image Enhancer （ACM MM 2019）[[Tensorflow code]](https://github.com/zhangyhuaee/KinD)
 - [**RDGAN**] RDGAN: Retinex Decomposition Based Adversarial Learning for Low-Light Enhancement (ICME 2019) [[Tensorflow code]](https://github.com/WangJY06/RDGAN)
+- [[**Low-lightgan**]] Low-lightgan: Low-light enhancement via advanced generative adversarial network with (ICIP2019)
 - [**Zero-DCE**] Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement (CVPR2020) [[PyTorch code]](https://github.com/Li-Chongyi/Zero-DCE)
 - [**Enlightengan**] Enlightengan: Deep light enhancement without paired supervision (TIP2021) 
 [[PyTorch Code]](https://github.com/VITA-Group/EnlightenGAN)
