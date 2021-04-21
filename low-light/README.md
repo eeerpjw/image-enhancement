@@ -19,6 +19,7 @@ Liu, J., Xu, D., Yang, W., Fan, M. and Huang, H., Benchmarking Low-Light Image E
 - [**SRIE**] A weighted variational model for simultaneous reflectance and illumination estimation (CVPR 2016) [[PDF]](https://xueyangfu.github.io/paper/2016/cvpr/cvpr2016.pdf) [[Matlab code]](https://xueyangfu.github.io/paper/2016/cvpr/Matlab_implementation.zip) [[Xueyang Fu (傅雪阳)]](https://xueyangfu.github.io/)
 
 - [**MF**] A Fusion-based Enhancing Method for Weakly Illuminated Images (TIP 2013) [[Project page]](https://xueyangfu.github.io/projects/sp2016.html) [[PDF]](https://xueyangfu.github.io/paper/2016/SP/SP2016.pdf) [[Matlab code]](https://xueyangfu.github.io/paper/2016/SP/Matlab_code.zip)
+- [**LR3M**] LR3M: Robust Low-Light Enhancement via Low-Rank Regularized Retinex Model (TIP 2020) [[MATLAB code]](https://github.com/tonghelen/LR3M-Method)
 
 ## Deep Learning Methods
 
@@ -35,8 +36,12 @@ Liu, J., Xu, D., Yang, W., Fan, M. and Huang, H., Benchmarking Low-Light Image E
 - [**RDGAN**] RDGAN: Retinex Decomposition Based Adversarial Learning for Low-Light Enhancement (ICME 2019) [[Tensorflow code]](https://github.com/WangJY06/RDGAN)
 - [[**Low-lightgan**]] Low-lightgan: Low-light enhancement via advanced generative adversarial network with (ICIP2019)
 - [**Zero-DCE**] Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement (CVPR2020) [[PyTorch code]](https://github.com/Li-Chongyi/Zero-DCE)
+- From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement (CVPR 2020) [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.pdf)[[PyTorch code]](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)
+- [**EEMEF**]EEMEFN: Low Light Image Enhancement via Edge Enhanced MultiExposure Fusion Network (AAAI 2020) [[NO CODE in github]](https://github.com/MinfengZhu/EEMEFN)
 - [**Enlightengan**] Enlightengan: Deep light enhancement without paired supervision (TIP2021) 
 [[PyTorch Code]](https://github.com/VITA-Group/EnlightenGAN)
+- Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement (TIP 2021)
+
 
 ## Low-light Denoising
 - [**ELD**] A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising (CVPR 2020) [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_A_Physics-Based_Noise_Formation_Model_for_Extreme_Low-Light_Raw_Denoising_CVPR_2020_paper.pdf) [[PyTorch code]](https://github.com/Vandermode/ELD) [[Dataset]](https://github.com/Vandermode/ELD)
@@ -65,4 +70,4 @@ Liu, J., Xu, D., Yang, W., Fan, M. and Huang, H., Benchmarking Low-Light Image E
 - [rockeyben/Low-Light](https://github.com/rockeyben/Low-Light)
 - [简介近期的一些基于深度学习的图像/视频增强方法](https://zhuanlan.zhihu.com/p/164328373)
 
-
+- [[Wenhan yang]](https://flyywh.github.io/Publication.html)
