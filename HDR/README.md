@@ -56,3 +56,4 @@
 
 ## Links
 - [[vinthony/awesome-deep-hdr]](https://github.com/vinthony/awesome-deep-hdr)
+- HDR sharing image [[hdrihaven]](https://hdrihaven.com/hdris/)
