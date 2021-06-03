@@ -50,6 +50,7 @@
 ## Tools
 
 - [HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave](https://github.com/banterle/HDR_Toolbox)
+- [HDRView](https://github.com/wkjarosz/hdrview) HDRView is a simple research-oriented high-dynamic range image viewer with an emphasis on examining and comparing images, and including minimalistic tonemapping capabilities. HDRView currently supports reading EXR, PNG, TGA, BMP, HDR, JPG, GIF, PNM, PFM, and PSD images and writing EXR, HDR, PNG, TGA, PPM, PFM, and BMP images.
 - [openhdr.org](https://viewer.openhdr.org). An online HDR image viewer which also has tone mapping functionality.
 - Adobe PhotoShop 
 - OpenCV
