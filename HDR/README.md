@@ -22,7 +22,7 @@
 
 - [**HDRCNN**] HDR image reconstruction from a single exposure using deep CNNs (TOG 2017） [[Tensorflow code]](https://github.com/gabrieleilertsen/hdrcnn)
 
-- Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline （CVPR2020）[[Project page]](https://alex04072000.github.io/SingleHDR/) [[TensorFlow code]](https://github.com/alex04072000/SingleHDR) [[Very Large Dataset]](https://alex04072000.github.io/SingleHDR/)
+- [**SingleHDR**] Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline （CVPR2020）[[Project page]](https://alex04072000.github.io/SingleHDR/) [[TensorFlow code]](https://github.com/alex04072000/SingleHDR) [[Very Large Dataset]](https://alex04072000.github.io/SingleHDR/)
 
 ### Computional Imaging based Deep Learning Methods
 - Deep Optics for Single-Shot High-Dynamic-Range Imaging (CVPR2020)
