@@ -41,6 +41,14 @@
   - N. Jacobs, N. Roman and R. Pless. Consistent temporal variations in many outdoor scenes. In: CVPR (2007)
   - H. Zhou, T. Sattler and D. Jacobs. Evaluating Local Features for Day-Night Matching. In: ECCV workshop (2016)
 
+- [[L3F Dataset]](https://mohitlamba94.github.io/L3Fnet/)
+  - TODO 
+
+- [[Image-Adaptive-3DLUT Dataset]](https://github.com/HuiZeng/Image-Adaptive-3DLUT)
+  - TODO
+
+- [AgLLNet Dataset](http://www.phi-ai.org/project/AgLLNet/default.htm)
+  - Synthetic data
 
 ### Datasets for Test
 - [[VV]](https://sites.google.com/site/vonikakis/datasets/challenging-dataset-for-enhancement)
