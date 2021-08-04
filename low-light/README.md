@@ -221,6 +221,7 @@ A list of low light image reconstruction related works.
 
 
 ## color & contrast enhencement
+
 - Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time (TPAMI'2021)
     - Zeng, Hui, Jianrui Cai, Lida Li, Zisheng Cao, and Lei Zhang. "Learning image-adaptive 3D lookup tables for high performance photo enhancement in real-time." IEEE Transactions on Pattern Analysis and Machine Intelligence (2020).
     - [[PyTorch code]](https://github.com/HuiZeng/Image-Adaptive-3DLUT)
@@ -254,3 +255,9 @@ A list of low light image reconstruction related works.
 - [简介近期的一些基于深度学习的图像/视频增强方法](https://zhuanlan.zhihu.com/p/164328373)
 
 ## Applications
+
+- Delta Sampling R-BERT for limited data and low-light action recognition (CVPRW 2021)
+    - [[PDF]](https://openaccess.thecvf.com/content/CVPR2021W/UG2/papers/Hira_Delta_Sampling_R-BERT_for_Limited_Data_and_Low-Light_Action_Recognition_CVPRW_2021_paper.pdf)
+
+- DarkLight Networks for Action Recognition in the Dark (CVPRW 2021)
+    - [[PDF]](https://openaccess.thecvf.com/content/CVPR2021W/UG2/papers/Chen_DarkLight_Networks_for_Action_Recognition_in_the_Dark_CVPRW_2021_paper.pdf)
