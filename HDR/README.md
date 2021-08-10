@@ -46,7 +46,7 @@
     - [[Project]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
     - [[Chainer code in python]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/Codes/DrTMO.zip)
 
-- [**HDRCNN**] HDR image reconstruction from a single exposure using deep CNNs (TOG 2017） 
+- [**HDRCNN**] HDR image reconstruction from a single exposure using deep CNNs (TOG 2017)
     - [[TensorFlow code]](https://github.com/gabrieleilertsen/hdrcnn)
 
 - [**SingleHDR**] Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline （CVPR2020）
@@ -56,6 +56,7 @@
 
 - Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting (CVPR'2021)
     - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.pdf)
+    - [K. Ram Prabhakar]()
 
 - Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects (CVPR 2021)
     - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)
