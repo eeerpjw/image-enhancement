@@ -198,6 +198,11 @@ A list of low light image reconstruction related works.
     - [[PDF]](https://arxiv.org/pdf/1908.00682.pdf)
     - [[Yu Li (李昱)]](https://yu-li.github.io/)
 
+- Learning Multi-Scale Photo Exposure Correction (CVPR 2021)
+    - [[PyTorch code]](https://github.com/mahmoudnafifi/Exposure_Correction)
+    - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Afifi_Learning_Multi-Scale_Photo_Exposure_Correction_CVPR_2021_paper.pdf)
+    
+
 ## Low-light Denoising
 - [**ELD**] A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising (CVPR 2020) 
     - [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_A_Physics-Based_Noise_Formation_Model_for_Extreme_Low-Light_Raw_Denoising_CVPR_2020_paper.pdf) 

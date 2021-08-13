@@ -78,17 +78,11 @@
 ## HDR reconstruction
 ### Single Frame
     
-- [**[SingleHDR]**](https://github.com/alex04072000/SingleHDR)
+- [**[SingleHDR]**](https://github.com/alex04072000/SingleHDR) ✅
     - Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (CVPR2020)
     - We collect two HDR image datasets, one with **synthetic** LDR images and the other with **real** LDR images, for training and evaluation.
     - [[Project]](https://alex04072000.github.io/SingleHDR/)
 
-- [**[RAISE]**](http://loki.disi.unitn.it/RAISE/)
-    - Test only
-    - RAISE is a challenging real-world image dataset, primarily designed for the evaluation of digital forgery detection algorithms. **It consists of 8156 high-resolution RAW images, uncompressed and guaranteed to be camera-native** (i.e., never touched or processed). All the images have been collected from 4 photographers over a period of 3 years (2011- 2014), capturing different scenes and moments in over 80 places in Europe employing 3 different cameras.
-    - File, File Size, Image Size, Image Quality (For example, Lossless Compressed RAW (14-bit)), Device, Focal Length, Aperture, and Shutter Speed are provided.
-    - [[Project]](http://loki.disi.unitn.it/RAISE/)
-    - [[Download]](http://loki.disi.unitn.it/RAISE/download.html)
 
 ###  Multiple Frames
 
@@ -115,7 +109,7 @@
     - Sensor-Realistic Synthetic Data Engine for Multi-Frame High Dynamic Range Photography (CVPRW2020) 
     - NTIRE'2O: Sensor-realistic Synthetic Data Engine for Multi-frame High Dynamic Range Photography
     - [[GitHub with no code]](https://github.com/nadir-zeeshan/sensor-realistic-synthetic-data)
-    - [[synthetic Dataset]](https://drive.google.com/drive/folders/1Sr2Jth4DT8K7dwviGsMhfDuc1d53XX0Z)
+    - [[Synthetic Dataset (Google drive)]](https://drive.google.com/drive/folders/1Sr2Jth4DT8K7dwviGsMhfDuc1d53XX0Z)
 
 - [**[Scenes_TOG12]**](https://web.ece.ucsb.edu/~psen/hdrvideo) ✅
     - Robust Patch-Based HDR Reconstruction of Dynamic Scenes (TOG 2012) 
@@ -147,7 +141,19 @@
     - http://www.hdrplusdata.org/dataset.html
 
 
+## RAW Dataset
 
+- [Zurich RAW to RGB Dataset](http://people.ee.ethz.ch/~ihnatova/pynet.html)
+    - To get real data for RAW to RGB mapping problem, a large-scale dataset consisting of 20 thousand photos was collected using Huawei P20 smartphone capturing RAW photos (plus the resulting RGB images obtained with Huawei's built-in ISP), and a professional high-end Canon 5D Mark IV camera with Canon EF 24mm f/1.4L fast lens. RAW data was read from P20's 12.3 MP Sony Exmor IMX380 Bayer camera sensor - though this phone has a second 20 MP monochrome camera, it is only used by Huawei's internal ISP system, and the corresponding images cannot be retrieved with any public camera API. The photos were captured in automatic mode, and default settings were used throughout the whole collection procedure. The data was collected over several weeks in a variety of places and in various illumination and weather conditions.
+    - Since the captured RAW-RGB image pairs are not perfectly aligned, they were first aligned globally using SIFT keypoints and RANSAC algorithm. Then, smaller patches of size 448×448 were extracted from the preliminary matched images using a non-overlapping sliding window. Two windows were moving in parallel along the two images from each RAW-RGB pair, and the position of the window on DSLR image was additionally adjusted with small shifts and rotations to maximize the cross-correlation between the observed patches. Patches with cross-correlation less than 0.9 were not included into the dataset to avoid large displacements. This procedure resulted in 48043 RAW-RGB image pairs (of size 448×448×1 and 448×448×3, respectively) that were later used for training, validation and testing the models. RAW image patches were additionally reshaped into the size of 224×224×4, where the four channels correspond to the four colors of the RGBG Bayer filer
+
+
+- [**[RAISE]**](http://loki.disi.unitn.it/RAISE/)
+    - Test only /without GT
+    - RAISE is a challenging real-world image dataset, primarily designed for the evaluation of digital forgery detection algorithms. **It consists of 8156 high-resolution RAW images, uncompressed and guaranteed to be camera-native** (i.e., never touched or processed). All the images have been collected from 4 photographers over a period of 3 years (2011- 2014), capturing different scenes and moments in over 80 places in Europe employing 3 different cameras.
+    - File, File Size, Image Size, Image Quality (For example, Lossless Compressed RAW (14-bit)), Device, Focal Length, Aperture, and Shutter Speed are provided.
+    - [[Project]](http://loki.disi.unitn.it/RAISE/)
+    - [[Download]](http://loki.disi.unitn.it/RAISE/download.html)
 
 
 

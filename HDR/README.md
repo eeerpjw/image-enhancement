@@ -56,7 +56,10 @@
 
 - Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting (CVPR'2021)
     - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.pdf)
-    - [K. Ram Prabhakar]()
+    - [K. Ram Prabhakar](https://sites.google.com/view/kramprabhakar/)
+
+- Towards Practical and Efficient High-Resolution HDR Deghosting with CNN (ECCV 2020)
+    - [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660494.pdf)
 
 - Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects (CVPR 2021)
     - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)
