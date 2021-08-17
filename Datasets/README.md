@@ -118,6 +118,10 @@
     - [[Dataset 394MB]](https://web.ece.ucsb.edu/~psen/HDR_stuff/Scenes.zip)
     - [[Paper]](https://web.ece.ucsb.edu/~psen/Papers/SIGASIA12_HDR_PatchBasedReconstruction_LoRes.pdf)
 
+- An Objective Deghosting Quality Metric for HDR Images ✅
+    - [[Project]](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/index.html)
+    - [[dataset]](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/summary/index.html)  [[download]](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/files/dataset.zip)
+    - [[code]](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/files/dqm_v2.tar.gz)
 
 ### Video
 - High Speed and HDR Datasets
@@ -126,20 +130,6 @@
     - [[PyTorch code]](https://github.com/uzh-rpg/rpg_e2vid)
     - [[Paper]](http://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf)
     - [[Dataset]](http://rpg.ifi.uzh.ch/E2VID.html)
-
-### Datasets that not explored
-
-- [**[HdM HDR]**](https://www.hdm-stuttgart.de/vmlab/hdm-hdr-2014)
-    - Reconstructed scene radiance in ALEXA-Wide-Gamut color space (80GB OpenEXR files)
-    - All clips color graded for Rec.2020 primaries and 0.005-4000cd/m2 luminance (189GB TIFF files)
-    - 德国的FTP服务器，下不下来
-
-- [**[HDR+]**](http://www.hdrplusdata.org)
-    - Curated subset (153 images)
-    - Part 1 (2000 images)
-    - Part 2 (1640 images)
-    - http://www.hdrplusdata.org/dataset.html
-
 
 ## RAW Dataset
 
@@ -155,7 +145,21 @@
     - [[Project]](http://loki.disi.unitn.it/RAISE/)
     - [[Download]](http://loki.disi.unitn.it/RAISE/download.html)
 
+### Datasets that not explored
 
+- [**[HdM HDR]**](https://www.hdm-stuttgart.de/vmlab/hdm-hdr-2014)
+    - Reconstructed scene radiance in ALEXA-Wide-Gamut color space (80GB OpenEXR files)
+    - All clips color graded for Rec.2020 primaries and 0.005-4000cd/m2 luminance (189GB TIFF files)
+    - 德国的FTP服务器，下不下来
+
+- [**[HDR+]**](http://www.hdrplusdata.org)
+    - Curated subset (153 images)
+    - Part 1 (2000 images)
+    - Part 2 (1640 images)
+    - http://www.hdrplusdata.org/dataset.html
+
+- https://www2.cs.sfu.ca/~colour/data/funt_hdr/
+- http://www.hdrlabs.com/sibl/archive.html
 
 ## Paper with code datasets
 
