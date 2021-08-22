@@ -53,6 +53,7 @@
 - [**[DarkFace]**](https://flyywh.github.io/CVPRW2019LowLight/)
     - [[Project]](https://flyywh.github.io/CVPRW2019LowLight/)
     - [[eval tools]](https://github.com/Ir1d/DARKFACE_eval_tools)
+    - related work [[HLA-Face]](https://github.com/daooshee/HLA-Face-Code)
 
 ### Datasets for Test
 - [**[VV]**](https://sites.google.com/site/vonikakis/datasets/challenging-dataset-for-enhancement) ✅
