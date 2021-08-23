@@ -162,6 +162,7 @@
 
 - [openhdr.org](https://viewer.openhdr.org). An online HDR image viewer which also has tone mapping functionality.
 
+- [Photomatix](https://www.hdrsoft.com/) for tonemapping
 - Adobe PhotoShop
 
 - OpenCV
