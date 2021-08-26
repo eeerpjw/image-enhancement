@@ -36,18 +36,22 @@
 
 ### Single Image HDR Reconstruction
 
-- [**UnModNet**] UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging (NeurIPS 2020) 
-    - [[PyTorch code]](https://github.com/fourson/UnModNet)
-
-- [**ExpandNet**] ExpandNet: A Deep Convolutional Neural Network for High Dynamic Range Expansion from Low Dynamic Range Content (CGF 2018) 
-    - [[PyTorch code]](https://github.com/dmarnerides/hdr-expandnet)
-
 - [**DrTMO**] Deep reverse tone mapping (TOG 2017） 
     - [[Project]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
     - [[Chainer code in python]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/Codes/DrTMO.zip)
 
 - [**HDRCNN**] HDR image reconstruction from a single exposure using deep CNNs (TOG 2017)
     - [[TensorFlow code]](https://github.com/gabrieleilertsen/hdrcnn)
+
+- [**ExpandNet**] ExpandNet: A Deep Convolutional Neural Network for High Dynamic Range Expansion from Low Dynamic Range Content (CGF 2018) 
+    - [[PyTorch code]](https://github.com/dmarnerides/hdr-expandnet)
+
+- Deep Recursive HDRI: Inverse Tone Mapping using Generative Adversarial Networks（ECCV2018）
+    - [[Paper]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Siyeong_Lee_Deep_Recursive_HDRI_ECCV_2018_paper.pdf)
+    - [[PyTorch code]](https://github.com/Siyeong-Lee/Deep_Recursive_HDRI)
+
+- [**UnModNet**] UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging (NeurIPS 2020) 
+    - [[PyTorch code]](https://github.com/fourson/UnModNet)
 
 - [**SingleHDR**] Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline （CVPR2020）
     - [[Project page]](https://alex04072000.github.io/SingleHDR/) 
@@ -56,6 +60,7 @@
 
 - Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting (CVPR'2021)
     - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.pdf)
+    - [[TensorFlow code]](https://github.com/Susmit-A/FSHDR)
     - [K. Ram Prabhakar](https://sites.google.com/view/kramprabhakar/)
 
 - Towards Practical and Efficient High-Resolution HDR Deghosting with CNN (ECCV 2020)
@@ -64,18 +69,7 @@
 - Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects (CVPR 2021)
     - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)
 
-- HDRUNet: Single Image HDR Reconstruction with Denoising and Dequantization (CVPRW 2021)
-    - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Chen_HDRUNet_Single_Image_HDR_Reconstruction_With_Denoising_and_Dequantization_CVPRW_2021_paper.pdf)
-    - won the second place in the single frame track of NTIRE2021 HDR Challenge
 
-- ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging (CVPRW 2021)
-    - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf)
-    - NTIRE2021 HDR Challenge
-
-- Single image HDR synthesis using a Densely Connected Dilated ConvNet (CVPRW 2021)
-    - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/A._Single_Image_HDR_Synthesis_Using_a_Densely_Connected_Dilated_ConvNet_CVPRW_2021_paper.pdf)
-
-- Single-Image HDR Reconstruction with Task-specific Network based on Channel Adaptive RDN (CVPRW 2021)
 
 ### Computional Imaging based Deep Learning Methods
 - [**DeepOpticsHDR**]Deep Optics for Single-Shot High-Dynamic-Range Imaging (CVPR2020)
@@ -129,11 +123,28 @@
     - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zou_Learning_To_Reconstruct_High_Speed_and_High_Dynamic_Range_Videos_CVPR_2021_paper.pdf)
 
 
+### Challenge & competition
+#### 🌟 NTIRE 2021 HDR challenge
+- HDRUNet: Single Image HDR Reconstruction with Denoising and Dequantization (CVPRW 2021)
+    - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Chen_HDRUNet_Single_Image_HDR_Reconstruction_With_Denoising_and_Dequantization_CVPRW_2021_paper.pdf)
+    - [[PyTorch code]](https://github.com/chxy95/HDRUNet)
+    - won the second place in the single frame track of NTIRE2021 HDR Challenge
+    
+- ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging (CVPRW 2021)
+    - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf)
+    - [[PyTorch code]](https://github.com/liuzhen03/ADNet)
+
+- Single image HDR synthesis using a Densely Connected Dilated ConvNet (CVPRW 2021)
+    - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/A._Single_Image_HDR_Synthesis_Using_a_Densely_Connected_Dilated_ConvNet_CVPRW_2021_paper.pdf)
+
+- Single-Image HDR Reconstruction with Task-specific Network based on Channel Adaptive RDN (CVPRW 2021)
+    - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Chen_Single-Image_HDR_Reconstruction_With_Task-Specific_Network_Based_on_Channel_Adaptive_CVPRW_2021_paper.pdf)
 
 ### Applications
 
 - Neural Auto-Exposure for High-Dynamic Range Object Detection (CVPR 2021)
     - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Onzon_Neural_Auto-Exposure_for_High-Dynamic_Range_Object_Detection_CVPR_2021_paper.pdf)
+    - [[Project]](https://light.princeton.edu/publication/neural_auto_exposure/)
 
 - HDR Environment Map Estimation for Real-Time Augmented Reality (CVPR 2021)
     - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Somanath_HDR_Environment_Map_Estimation_for_Real-Time_Augmented_Reality_CVPR_2021_paper.pdf)
