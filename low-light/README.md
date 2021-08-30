@@ -6,6 +6,10 @@ A list of low light image reconstruction related works.
 
 - Liu, J., Xu, D., Yang, W., Fan, M. and Huang, H., **Benchmarking Low-Light Image Enhancement and Beyond**. International Journal of Computer Vision, pp.1-32.
 - [Low-Light Image and Video Enhancement Using Deep Learning: A Survey](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open)
+    - [[Platform] Lighting the Darkness in the Deep Learning Era](http://mc.nankai.edu.cn/ll/)
+    - [[Project]](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open/)
+    - [[Dataset] LoLi-Phone (3.4G)](https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view)
+    - [[Chongyi Li(李重仪)]](https://li-chongyi.github.io/)
 
 ## Traditional Methods
 - [**LIME**] LIME: Low-light image Enhancement via Illumination Map Estimation (TIP 2017/ ACM 2016)
@@ -89,6 +93,11 @@ A list of low light image reconstruction related works.
     - [[Github with no code release]](https://github.com/nothinglo/Deep-Photo-Enhancer) 
     - [[PDF]](https://www.csie.ntu.edu.tw/~cyy/publications/papers/Chen2018DPE.pdf)
     - [[Non-official TF2 code]](https://github.com/MrRobot2211/deep-photo-enhance-t2)
+
+- LightenNet: a convolutional neural network for weakly illuminated image enhancement (Pattern Recognition Letter 2018)
+    - [[Project]](https://li-chongyi.github.io/proj_lowlight.html)
+    - [[code]](https://github.com/Li-Chongyi/Low-Light-Codes)
+    - [[Chongyi Li(李重仪)]](https://li-chongyi.github.io/)
 
 - [**HybridNet**]Low-Light Image Enhancement via a Deep Hybrid Network (TIP 2019) 
     - Ren W, Liu S, Ma L, et al. Low-light image enhancement via a deep hybrid network[J]. IEEE Transactions on Image Processing, 2019, 28(9): 4364-4375.
