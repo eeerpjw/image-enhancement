@@ -6,35 +6,36 @@
 A list of image enhancement resources collected by [jinwang pan](https://github.com/eeerpjw)
 
 ## Low Light Enhancement
+
 Follow the link [low light enhancement](low-light/README.md)
 
-
 ## Contrast Enhancement
+
 - [**SICE**] Learning a Deep Single Image Contrast Enhancer from Multi-Exposure Images (TIP 2018) [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SICE.pdf) [[Caffe code]](https://github.com/csjcai/SICE) [[Dataset]](https://github.com/csjcai/SICE)
 - Unpaired Image Enhancement Featuring Reinforcement-Learning-Controlled Image Editing Software (AAAI 2020) [[PDF]](https://arxiv.org/pdf/1912.07833.pdf) [[Python code]](https://github.com/satoshi-kosugi/Unpaired-Image-Enhancement) based on [chainer_spiral](https://github.com/DwangoMediaVillage/chainer_spiral)
 - [**DPED**] DSLR-Quality Photos on Mobile Devices with Deep Convolutional Network (ICCV 2017)[[Project page]](https://people.ee.ethz.ch/~ihnatova/)
 
 ## Multi-Exposure Fusion
-- [**EEMEFN**] EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network (AAAI 2020) [[Project page]](https://zjuvag.org/publications/eemefn/)
 
+- [**EEMEFN**] EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network (AAAI 2020) [[Project page]](https://zjuvag.org/publications/eemefn/)
 
 ## Tone Mapping
 
 ## HDR
+
 Follow the link [low light enhancement](HDR/README.md)
 
-## Underwater Image Enhancement
-
-
 ## Datasets
+
 Follow the link [Datasets](Datasets/README.md)
 
 ## Related Researchers
+
 - [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/)
   
 - [Kede Ma](https://ece.uwaterloo.ca/~k29ma/)
-  - MEF 
-  - Image Quality Assessment 
+  - MEF
+  - Image Quality Assessment
 - [Wenqi Ren(任文琦)](https://sites.google.com/site/renwenqi888/)
   - low-light, Dehazing, Deraining
   - Underwater image enhancement
@@ -44,15 +45,7 @@ Follow the link [Datasets](Datasets/README.md)
 
 ## News
 
-
 - [HDR+: Low Light and High Dynamic Range photography in the Google Camera App](https://ai.googleblog.com/2014/10/hdr-low-light-and-high-dynamic-range.html) Monday, October 27, 2014
 - [Introducing the HDR+ Burst Photography Dataset](https://ai.googleblog.com/2018/02/introducing-hdr-burst-photography.html) Monday, February 12, 2018
-
-
-
-
-
-
-
 
 <a href="#head">`Back To TOP`</a>
