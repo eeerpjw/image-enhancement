@@ -102,6 +102,10 @@
   - We collect two HDR image datasets, one with **synthetic** LDR images and the other with **real** LDR images, for training and evaluation.
   - [[Project]](https://alex04072000.github.io/SingleHDR/)
 
+- HDRCNN test set
+  - https://weber.itn.liu.se/~gabei62/hdrcnn/
+  - https://weber.itn.liu.se/~gabei62/hdrcnn/
+
 ### Multiple Frames
 
 - [**[HDRPS_Raws]**](http://markfairchild.org/HDR.html) ✅
