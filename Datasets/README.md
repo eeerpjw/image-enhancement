@@ -62,6 +62,11 @@
   - <https://arxiv.org/abs/2106.14501>
   - download via [[BaiduNetDisk]](https://pan.baidu.com/s/1UxFllrtRSh4E8ir8LdTb9w)(code: wmr1)
 
+- CID
+  - 额，还是工大的
+  - https://github.com/505030475/ExtremeLowLight
+
+
 ### Datasets for Test
 
 - [**[VV]**](https://sites.google.com/site/vonikakis/datasets/challenging-dataset-for-enhancement) ✅
