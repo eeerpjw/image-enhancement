@@ -81,6 +81,7 @@ A list of low light image reconstruction related works.
   - Feifan Lv, Yu Li and Feng Lu. Attention-guided Low-light Image Enhancement. arXiv:1908.00682.
   - [[Project page]](http://phi-ai.org/project/AgLLNet/default.htm) [[No released code]]
   - [[PDF]](https://arxiv.org/abs/1908.00682)
+  - 参见[**AgLLNet**] TIP没中，改投的IJCV，太水了
 
 - [**SID**] Learning to see in the dark (CVPR 2018)
   - Chen, Chen, et al. "Learning to see in the dark." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
@@ -120,7 +121,7 @@ A list of low light image reconstruction related works.
 
 - [**RDGAN**] RDGAN: Retinex Decomposition Based Adversarial Learning for Low-Light Enhancement (ICME 2019)
   - Wang, Junyi, et al. "RDGAN: Retinex decomposition based adversarial learning for low-light enhancement." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019.
-  - [Tensorflow code]](<https://github.com/WangJY06/RDGAN>)
+  - [[Tensorflow code]](https://github.com/WangJY06/RDGAN)
 
 - [**Low-lightgan**] Low-lightgan: Low-light enhancement via advanced generative adversarial network with (ICIP2019)
   - Kim, Guisik, Dokyeong Kwon, and Junseok Kwon. "Low-lightgan: Low-light enhancement via advanced generative adversarial network with task-driven training." 2019 IEEE International Conference on Image Processing (ICIP). IEEE, 2019.
