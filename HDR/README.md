@@ -1,4 +1,8 @@
-# High Dynamic Imaging
+# High Dynamic Range Imaging
+
+## Tutorials & Materials
+- Mantiuk, Rafał, et al. High dynamic range imaging. na, 2015.
+  - [[PDF]](https://www.cl.cam.ac.uk/~rkm38/pdfs/mantiuk15hdri.pdf)
 
 ## HDR reconstruction
 
