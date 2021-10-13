@@ -176,6 +176,7 @@
   - File, File Size, Image Size, Image Quality (For example, Lossless Compressed RAW (14-bit)), Device, Focal Length, Aperture, and Shutter Speed are provided.
   - [[Project]](http://loki.disi.unitn.it/RAISE/)
   - [[Download]](http://loki.disi.unitn.it/RAISE/download.html)
+  - I write a python script [downloadRAISE.py](./RAISE/downloadRAISE.py) to download the dataset.
 
 ### Datasets that not explored
 
@@ -183,7 +184,8 @@
   - Reconstructed scene radiance in ALEXA-Wide-Gamut color space (80GB OpenEXR files)
   - All clips color graded for Rec.2020 primaries and 0.005-4000cd/m2 luminance (189GB TIFF files)
   - 德国的FTP服务器，下不下来
-
+- HDR-EYE 
+  - https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/
 - [**[HDR+]**](http://www.hdrplusdata.org)
   - Curated subset (153 images)
   - Part 1 (2000 images)
