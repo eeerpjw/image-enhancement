@@ -190,6 +190,9 @@ A list of low light image reconstruction related works.
   - [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lamba_Restoring_Extremely_Dark_Images_in_Real_Time_CVPR_2021_paper.pdf)
   - [[Mohit Lamba]](https://mohitlamba94.github.io/about-me/)
 
+- [**MIRNet**] Learning Enriched Features for Real Image Restoration and Enhancement (ECCV 2020)
+  - [[TensorFlow code]](https://github.com/swz30/MIRNet)
+
 - Nighttime visibility enhancement by increasing the dynamic range and suppression of light effects (CVPR'2021)
   - Sharma A, Tan R T. Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 11977-11986.
   - [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)
