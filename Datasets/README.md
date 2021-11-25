@@ -9,7 +9,7 @@
 - [**[LOL-v2]**](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)
 
 - [**[GladNet]**](https://daooshee.github.io/fgworkshop18Gladnet/) ✅
-
+  - 实际上是Adobe Fivek生成的数据
 - [**[vip-lowlight]**](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset) ✅
   - 8 pics
   - .png

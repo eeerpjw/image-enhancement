@@ -17,7 +17,7 @@ Follow the link [low light enhancement](low-light/README.md)
 
 ## Multi-Exposure Fusion
 
-- [**EEMEFN**] EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network (AAAI 2020) [[Project page]](https://zjuvag.org/publications/eemefn/)
+
 
 ## Tone Mapping
 
