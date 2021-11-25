@@ -57,6 +57,10 @@ A list of low light image reconstruction related works.
 
 ## Deep Learning Methods
 
+- [**DPED**] DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks (ICCV 2017)
+  - [[Tensorflow code]](https://github.com/aiff22/DPED)
+  - [[Project page]](https://people.ee.ethz.ch/~ihnatova/#title)
+
 - [**RetinexNet**] Deep Retinex Decomposition for Low-Light Enhancement (BMVC 2018)
   - Wei C, Wang W, Yang W, et al. Deep retinex decomposition for low-light enhancement[J]. arXiv preprint arXiv:1808.04560, 2018.
   - [[Project page]](https://daooshee.github.io/BMVC2018website/)
@@ -204,7 +208,7 @@ A list of low light image reconstruction related works.
 - [**AgLLNet**] Attention Guided Low-light Image Enhancement with a Large Scale Low-light Simulation Dataset (IJCV 2021)
   - Lv F, Li Y, Lu F. Attention guided low-light image enhancement with a large scale low-light simulation dataset[J]. International Journal of Computer Vision, 2021, 129(7): 2175-2193.
   - [[Projet]](http://www.phi-ai.org/project/AgLLNet/default.htm)
-  - [[TensorFlow code]](https://github.com/yu-li/AGLLNet)
+  - [[TensorFlow code (only for testing)]](https://github.com/yu-li/AGLLNet)
   - [[Synthetic Dataset(Baidu Drive password: os9v)]](https://pan.baidu.com/s/1SID1MOQJjQjV99QeHy1hPg)
   - [[PDF]](https://arxiv.org/pdf/1908.00682.pdf)
   - [[Yu Li (李昱)]](https://yu-li.github.io/)
