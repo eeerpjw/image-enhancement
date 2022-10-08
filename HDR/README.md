@@ -3,18 +3,24 @@
 ## Tutorials & Materials
 - Mantiuk, Rafał, et al. High dynamic range imaging. na, 2015.
   - [[PDF]](https://www.cl.cam.ac.uk/~rkm38/pdfs/mantiuk15hdri.pdf)
-
+  
+## Surveys
+- Deep Learning for HDR Imaging: State-of-the-Art and Future Trends （TPAMI）
+ - [[PDF]](https://arxiv.org/abs/2110.10394)
 ## HDR reconstruction
 
-### Multiple Images HDR Reconstruction
+### Multiple Exposure HDR Reconstruction
 
-- Deep High Dynamic Range Imaging of Dynamic Scenes (SIGGRAPH 2017)
+- Deep High Dynamic Range Imaging of Dynamic Scenes (SIGGRAPH/TOG 2017)
   - [[Project]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
   - [Dataset] [[Test set 405MB]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR_Testset.zip) [[Training set 1.95GB]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR_Trainingset.zip)
   - [[MATLAB Caffe Code]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR_Code_v1.0.zip)
 
+- Deep hdr reconstruction of dynamic scenes (ICIVC 2018)
+
 - [**DeepHDR**]Deep High Dynamic Range Imaging with Large Foreground Motions （ECCV 2018）
   - [[TensorFlow code]](https://github.com/elliottwu/DeepHDR)
+- Multi-scale dense networks for deep high dynamic range imaging (WACV 2019)
 
 - [**AHDRNet**] Attention-guided network for ghost-free high dynamic range imaging (CVPR 2019)
   - [[PyTorch Code (Incomplete)]](https://github.com/qingsenyangit/AHDRNet)
@@ -31,14 +37,60 @@
 
 - [**NHDRRNet**] Deep HDR Imaging via A Non-Local Network (TIP 2020)
   - [[TensorFlow code]](https://github.com/tuvovan/NHDRRNet)
-
+- Attention-mask dense merger (attendense) deep hdr for ghost removal (ICASSP 2020)
 - Sensor-Realistic Synthetic Data Engine for Multi-Frame High Dynamic Range Photography (CVPRW2020)
   - NTIRE '2O: Sensor-realistic Synthetic Data Engine for Multi-frame High Dynamic Range Photography
   - [[GitHub with no code]](https://github.com/nadir-zeeshan/sensor-realistic-synthetic-data)
   - [[synthetic Dataset]](https://drive.google.com/drive/folders/1Sr2Jth4DT8K7dwviGsMhfDuc1d53XX0Z)
   - [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Hu_Sensor-Realistic_Synthetic_Data_Engine_for_Multi-Frame_High_Dynamic_Range_Photography_CVPRW_2020_paper.html)
+- Towards accurate hdr imaging with learning generator constraints (Neurocomputing 2021)
+- HDR-GAN: HDR image reconstruction from multi-exposed ldr images with large motions (TIP 2021)
+  - [[Paper]](https://arxiv.org/pdf/2007.01628.pdf)
+  - [[TensorFlow code]](https://github.com/nonu116/HDR-GAN)
 
-### Single Image HDR Reconstruction
+- Ghost-Free Deep High-Dynamic-Range Imaging Using Focus Pixels for Complex Motion Scenes (TIP 2021)
+  - [[Paper]](https://ieeexplore.ieee.org/document/9429936)
+- Progressive and Selective Fusion Network for High Dynamic Range Imaging (ArXiv 2021/8)
+  - [[Paper]](https://arxiv.org/abs/2108.08585)
+  - [[Code]](https://github.com/yarqian/psfnet) no code release (2022/10/8)
+- Invertible Tone Mapping with Selectable Styles (ArXiv 2021/9)
+  - [[Paper]](https://arxiv.org/abs/2110.04491)
+
+- UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data (TCSVT 2022)
+  - [[Paper]](https://arxiv.org/pdf/2102.01850.pdf)
+
+- Self-supervised HDR Imaging from Motion and Exposure Cues (ArXiv 2022/3)
+  - [[Paper]](https://arxiv.org/pdf/2203.12311.pdf)
+  - [[Eduardo Pérez Pellitero]](https://perezpellitero.github.io/publications/)
+
+- HDR Reconstruction from Bracketed Exposures and Events (ArXiv 2022/3)
+
+- Segmentation Guided Deep HDR Deghosting (ArXiv 2022/7)
+  - [[Paper]](https://arxiv.org/abs/2207.01229)
+
+- Learning Regularized Multi-Scale Feature Flow for High Dynamic Range Imaging (ArXiv 2022/7)
+  - [[Paper]](https://arxiv.org/abs/2207.02539)
+- Multi-scale Sampling and Aggregation Network For High Dynamic Range Imaging (ArXiv 2022/8)
+  - [[Paper]](https://arxiv.org/abs/2208.02448)
+
+- Distilling Style from Image Pairs for Global Forward and Inverse Tone Mapping (CVMP 2022)
+  - [[Paper]](https://arxiv.org/abs/2209.15165)
+- Disentangled Feature-Guided Multi-Exposure High Dynamic Range Imaging (ICASSP 2022)
+  - [[Paper]](https://ieeexplore.ieee.org/document/9747329)
+- Ghost-free High Dynamic Range Imaging with Context-aware Transformer (ECCV 2022)
+  - [[Paper]](https://arxiv.org/abs/2208.05114)
+  - [[Code]](https://github.com/megvii-research/HDR-Transformer)
+
+- Attention-Guided Progressive Neural Texture Fusion for High Dynamic Range Image Restoration (TIP 2022)
+  - [[Paper]](https://arxiv.org/abs/2107.06211)
+
+- Deep Unrolled Low-Rank Tensor Completion for High Dynamic Range Imaging (TIP 2022)
+  - [[Paper]](https://ieeexplore.ieee.org/document/9874720)
+  - [[Code]](https://github.com/mtntruong/LRT-HDR)
+
+- FlexHDR: Modelling Alignment and Exposure Uncertainties for Flexible HDR Imaging (TIP 2022)
+  - [[Paper]](https://arxiv.org/abs/2201.02625)
+### Single Exposure HDR Reconstruction
 
 - [**DrTMO**] Deep reverse tone mapping (TOG 2017）
   - [[Project]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
@@ -61,7 +113,9 @@
   - [[Project page]](https://alex04072000.github.io/SingleHDR/)
   - [[TensorFlow code]](https://github.com/alex04072000/SingleHDR)
   - [[Very Large Dataset]](https://alex04072000.github.io/SingleHDR/)
-
+- Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss (ACM SIGGRAPH 2020)
+  - [[Paper]](https://arxiv.org/abs/2005.07335)
+  - [[Code]](https://github.com/marcelsan/Deep-HdrReconstruction)
 - Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting (CVPR'2021)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.pdf)
   - [[TensorFlow code]](https://github.com/Susmit-A/FSHDR)
@@ -73,6 +127,21 @@
 - Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects (CVPR 2021)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)
 
+- A New Journey from SDRTV to HDRTV (ICCV 2021)
+  - [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf)
+  - [[Code]](https://github.com/chxy95/HDRTVNet)
+
+- Hybrid Saturation Restoration for LDR Images of HDR Scenes (ArXiv 2021/11)
+  - [[Paper]](https://arxiv.org/abs/2111.06038)
+
+- LA-HDR: Light Adaptive HDR Reconstruction Framework for Single LDR Image Considering Varied Light Conditions (TMM 2022)
+
+- Lightness Modulated Deep Inverse Tone Mapping (ArXiv 2021/7)
+  - [[Paper]](https://arxiv.org/abs/2107.07907)
+
+- Deep Joint Demosaicing and High Dynamic Range Imaging within a Single Shot (TCSVT 2022)
+  - [[Paper]](https://arxiv.org/abs/2111.07281)
+  
 ### Computional Imaging based Deep Learning Methods
 
 - [**DeepOpticsHDR**]Deep Optics for Single-Shot High-Dynamic-Range Imaging (CVPR2020)
@@ -89,6 +158,8 @@
 - End-to-end High Dynamic Range Camera Pipeline Optimization (CVPR'2021)
   - [[Project]](https://light.princeton.edu/publication/hdr_isp_opt/)
   - [[Paper]](https://light.cs.princeton.edu/wp-content/uploads/2021/04/HDR_ISP_Opt.pdf)
+
+
 
 ### Traditional Methods
 
@@ -109,6 +180,9 @@
   - [[Paper]](https://people.csail.mit.edu/hasinoff/pubs/HasinoffEtAl16-hdrplus.pdf)
   - [[supp]](http://graphics.stanford.edu/papers/hdrp/hasinoff-hdrplus-sigasia16-supp.pdf)
 
+### 3D Panorama HDR imaging
+
+
 ### HDR Video
 
 - Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks (CVPR 2019)
@@ -123,10 +197,32 @@
 - Learning to Reconstruct High Speed and High Dynamic Range Videos from Events (CVPR 2021)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zou_Learning_To_Reconstruct_High_Speed_and_High_Dynamic_Range_Videos_CVPR_2021_paper.pdf)
 
+- HDRVideo-GAN: Deep Generative HDR Video Reconstruction(ICVGIP 2021)
+  - [[Paper]](https://arxiv.org/abs/2110.11795)
+
+
+### Joint HDR with other tasks
+- Deep SR-ITM: Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications (ICCV 2019)
+  - [[Paper]](https://arxiv.org/abs/1904.11176)
+  - [[Code]](https://github.com/sooyekim/Deep-SR-ITM)
+
+- Deep Joint Deinterlacing and Denoising for Single Shot Dual-ISO HDR Reconstruction (TIP 2020)
+  - [[Paper]](https://user.ceng.metu.edu.tr/~akyuz/files/TIP_2020_HDR.pdf)
+- JSI-GAN: GAN-Based Joint Super-Resolution and Inverse Tone-Mapping with Pixel-Wise Task-Specific Filters for UHD HDR Video (AAAI 2020)
+  - [[Paper]](https://arxiv.org/abs/1909.04391)
+  - [[Code]](https://github.com/JihyongOh/JSI-GAN)
+- Global Priors Guided Modulation Network for Joint Super-Resolution and Inverse Tone-Mapping (TCSVT 2022)
+  - [[Paper]](https://arxiv.org/pdf/2208.06885.pdf)
+  
+- Joint Super-Resolution and Inverse Tone-Mapping: A Feature Decomposition Aggregation Network and A New Benchmark (ArXiv 2022/7)
+  - [[Paper]](https://arxiv.org/abs/2207.03367)
+
+
 ### Challenge & competition
 
-#### 🌟 NTIRE 2021 HDR challenge
-
+#### NTIRE 2021 HDR challenge
+- NTIRE 2021 Challenge on High Dynamic Range Imaging: Methods and Results 
+  - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Perez-Pellitero_NTIRE_2021_Challenge_on_High_Dynamic_Range_Imaging_Dataset_Methods_CVPRW_2021_paper.pdf)
 - HDRUNet: Single Image HDR Reconstruction with Denoising and Dequantization (CVPRW 2021)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Chen_HDRUNet_Single_Image_HDR_Reconstruction_With_Denoising_and_Dequantization_CVPRW_2021_paper.pdf)
   - [[PyTorch code]](https://github.com/chxy95/HDRUNet)
@@ -141,6 +237,21 @@
 
 - Single-Image HDR Reconstruction with Task-specific Network based on Channel Adaptive RDN (CVPRW 2021)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Chen_Single-Image_HDR_Reconstruction_With_Task-Specific_Network_Based_on_Channel_Adaptive_CVPRW_2021_paper.pdf)
+
+#### NTIRE 2022 HDR challenge
+- NTIRE 2022 Challenge on High Dynamic Range Imaging: Methods and Results 
+  - [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Perez-Pellitero_NTIRE_2022_Challenge_on_High_Dynamic_Range_Imaging_Methods_and_CVPRW_2022_paper.html)
+- DRHDR: A Dual branch Residual Network for Multi-Bracket High Dynamic Range Imaging (CVPRW 2022)
+  - [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Marin-Vega_DRHDR_A_Dual_Branch_Residual_Network_for_Multi-Bracket_High_Dynamic_CVPRW_2022_paper.pdf)
+
+- Gamma-enhanced Spatial Attention Network for Efficient High Dynamic Range Imaging (CVPRW 2022)
+  - [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Li_Gamma-Enhanced_Spatial_Attention_Network_for_Efficient_High_Dynamic_Range_Imaging_CVPRW_2022_paper.pdf)
+
+- A Lightweight Network for High Dynamic Range Imaging (CVPRW 2022)
+  - [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Yan_A_Lightweight_Network_for_High_Dynamic_Range_Imaging_CVPRW_2022_paper.pdf)
+
+- Multi-Bracket High Dynamic Range Imaging with Event Cameras (CVPRW 2022)
+  - [[Paper]](https://rpg.ifi.uzh.ch/docs/CVPRW22_Messikommer.pdf)
 
 ## Applications
 
@@ -170,7 +281,7 @@
 ## Tools
 
 - [HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave](https://github.com/banterle/HDR_Toolbox)
-
+- [popura/hdrpy](https://github.com/popura/hdrpy) A package for handling high dynamic range (HDR) images with Python. This package is under development.
 - [HDRView](https://github.com/wkjarosz/hdrview) HDRView is a simple research-oriented high-dynamic range image viewer with an emphasis on examining and comparing images, and including minimalistic tonemapping capabilities. HDRView currently supports reading EXR, PNG, TGA, BMP, HDR, JPG, GIF, PNM, PFM, and PSD images and writing EXR, HDR, PNG, TGA, PPM, PFM, and BMP images.
 
 - [openhdr.org](https://viewer.openhdr.org). An online HDR image viewer which also has tone mapping functionality.

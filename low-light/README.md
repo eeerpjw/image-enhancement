@@ -6,8 +6,9 @@ A list of low light image reconstruction related works.
 
 - Liu, J., Xu, D., Yang, W., Fan, M. and Huang, H., **Benchmarking Low-Light Image Enhancement and Beyond**. International Journal of Computer Vision, pp.1-32.
 - [Low-Light Image and Video Enhancement Using Deep Learning: A Survey](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open)
+  - [[中文版本综述]](https://li-chongyi.github.io/PDF/Low_Light_Image_and_Video_Enhancement_Using_Deep_Learning__A_Survey.pdf)
   - [[Platform] Lighting the Darkness in the Deep Learning Era](http://mc.nankai.edu.cn/ll/)
-  - [[Project]](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open/)
+  - [[Project]](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open/) **A sound survey including methods with codes and datasets !**
   - [[Dataset] LoLi-Phone (3.4G)](https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view)
   - [[Chongyi Li(李重仪)]](https://li-chongyi.github.io/)
 
