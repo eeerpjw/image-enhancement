@@ -7,7 +7,6 @@
 
 - [**[LOL]**](https://daooshee.github.io/BMVC2018website/) ✅
 - [**[LOL-v2]**](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)
-
 - [**[GladNet]**](https://daooshee.github.io/fgworkshop18Gladnet/) ✅
   - 实际上是Adobe Fivek生成的数据
 - [**[vip-lowlight]**](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset) ✅
@@ -151,7 +150,11 @@
   - [[Project]](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/index.html)
   - [[dataset]](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/summary/index.html)  [[download]](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/files/dataset.zip)
   - [[code]](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/files/dqm_v2.tar.gz)
-
+- The Laval Indoor HDR Dataset
+  - This dataset contains 2100+ high resolution indoor panoramas, captured using a Canon 5D Mark III and a robotic panoramic tripod head. Each capture was multi-exposed (22 f-stops) and is fully HDR, without any saturation. Panoramas were stitched from 6 captures (60 degrees azimuth increment) and were captured in a wide variety of indoor environments.
+  - [[Project]](http://indoor.hdrdb.com/#)
+  - [[Paper]](http://vision.gel.ulaval.ca/~jflalonde/publications/projects/deepIndoorLight/index.html)
+  
 ### Video
 
 - High Speed and HDR Datasets
