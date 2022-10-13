@@ -3,10 +3,9 @@
 ## Tutorials & Materials
 - Mantiuk, Rafał, et al. High dynamic range imaging. na, 2015.
   - [[PDF]](https://www.cl.cam.ac.uk/~rkm38/pdfs/mantiuk15hdri.pdf)
-  
 ## Surveys
-- Deep Learning for HDR Imaging: State-of-the-Art and Future Trends （TPAMI）
- - [[PDF]](https://arxiv.org/abs/2110.10394)
+- Deep Learning for HDR Imaging: State-of-the-Art and Future Trends (TPAMI)
+  - [[PDF]](https://arxiv.org/abs/2110.10394)
 ## HDR reconstruction
 
 ### Multiple Exposure HDR Reconstruction
