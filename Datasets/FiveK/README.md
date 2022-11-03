@@ -2,11 +2,11 @@
 > author : Jinwang Pan cs_pjw@163.com
 
 
-FiveK dataset can be downloaded for its official website: 
+FiveK dataset can be downloaded from its official website: 
 
 [https://data.csail.mit.edu/graphics/fivek/](https://data.csail.mit.edu/graphics/fivek/)
 
-The downloaded dataset contains RAW images from different devices. To generate the experts retouched images, you need to download Adobe Lightroom. There is a detailed tutorial from [yuanming-hu/exposure](https://github.com/yuanming-hu/exposure) titled [Preparing data for the MIT Adobe FiveK Dataset with Lightroom](https://github.com/yuanming-hu/exposure/wiki/Preparing-data-for-the-MIT-Adobe-FiveK-Dataset-with-Lightroom)
+The downloaded dataset contains RAW(DNG) images from different devices. To generate the experts retouched images, you need to download Adobe Lightroom. There is a detailed tutorial from [yuanming-hu/exposure](https://github.com/yuanming-hu/exposure) titled [Preparing data for the MIT Adobe FiveK Dataset with Lightroom](https://github.com/yuanming-hu/exposure/wiki/Preparing-data-for-the-MIT-Adobe-FiveK-Dataset-with-Lightroom)
 
 After generating your own specified dataset. you may need split it into 'training set', 'eval set' and 'test set'. A script is here for script dataset. [split_dataset.py](./split_dataset.py)
 
