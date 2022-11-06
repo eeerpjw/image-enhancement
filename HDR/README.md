@@ -89,6 +89,11 @@
 
 - FlexHDR: Modelling Alignment and Exposure Uncertainties for Flexible HDR Imaging (TIP 2022)
   - [[Paper]](https://arxiv.org/abs/2201.02625)
+
+- Ghost-free High Dynamic Range Imaging with Context-aware Transformer (ECCV 2022)
+  - [[Paper]](https://arxiv.org/pdf/2208.05114.pdf)
+  - [[Code MegEngine]](https://github.com/megvii-research/HDR-Transformer)
+  - [[Code PyTorch]](https://github.com/liuzhen03/HDR-Transformer-PyTorch)
 ### Single Exposure HDR Reconstruction
 
 - [**DrTMO**] Deep reverse tone mapping (TOG 2017）
@@ -129,6 +134,7 @@
 - A New Journey from SDRTV to HDRTV (ICCV 2021)
   - [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf)
   - [[Code]](https://github.com/chxy95/HDRTVNet)
+  - [[Dataset HDRTV1K]](../Datasets/README.md)
 
 - Hybrid Saturation Restoration for LDR Images of HDR Scenes (ArXiv 2021/11)
   - [[Paper]](https://arxiv.org/abs/2111.06038)
@@ -222,12 +228,12 @@
 #### NTIRE 2021 HDR challenge
 - NTIRE 2021 Challenge on High Dynamic Range Imaging: Methods and Results 
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Perez-Pellitero_NTIRE_2021_Challenge_on_High_Dynamic_Range_Imaging_Dataset_Methods_CVPRW_2021_paper.pdf)
-- HDRUNet: Single Image HDR Reconstruction with Denoising and Dequantization (CVPRW 2021)
+- [**HDRUNet**] HDRUNet: Single Image HDR Reconstruction with Denoising and Dequantization (CVPRW 2021)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Chen_HDRUNet_Single_Image_HDR_Reconstruction_With_Denoising_and_Dequantization_CVPRW_2021_paper.pdf)
   - [[PyTorch code]](https://github.com/chxy95/HDRUNet)
   - won the second place in the single frame track of NTIRE2021 HDR Challenge
 
-- ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging (CVPRW 2021)
+- [**ADNet**] ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging (CVPRW 2021)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Liu_ADNet_Attention-Guided_Deformable_Convolutional_Network_for_High_Dynamic_Range_Imaging_CVPRW_2021_paper.pdf)
   - [[PyTorch code]](https://github.com/liuzhen03/ADNet)
 
@@ -240,11 +246,13 @@
 #### NTIRE 2022 HDR challenge
 - NTIRE 2022 Challenge on High Dynamic Range Imaging: Methods and Results 
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Perez-Pellitero_NTIRE_2022_Challenge_on_High_Dynamic_Range_Imaging_Methods_and_CVPRW_2022_paper.html)
-- DRHDR: A Dual branch Residual Network for Multi-Bracket High Dynamic Range Imaging (CVPRW 2022)
+- [**DRHDR**] DRHDR: A Dual branch Residual Network for Multi-Bracket High Dynamic Range Imaging (CVPRW 2022)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Marin-Vega_DRHDR_A_Dual_Branch_Residual_Network_for_Multi-Bracket_High_Dynamic_CVPRW_2022_paper.pdf)
+  - [[Code]](https://github.com/drhdr-user/drhdr)
 
-- Gamma-enhanced Spatial Attention Network for Efficient High Dynamic Range Imaging (CVPRW 2022)
+- [**GSANet**] Gamma-enhanced Spatial Attention Network for Efficient High Dynamic Range Imaging (CVPRW 2022)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Li_Gamma-Enhanced_Spatial_Attention_Network_for_Efficient_High_Dynamic_Range_Imaging_CVPRW_2022_paper.pdf)
+  - [[Code]](https://github.com/fancyicookie/GSANet)
 
 - A Lightweight Network for High Dynamic Range Imaging (CVPRW 2022)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Yan_A_Lightweight_Network_for_High_Dynamic_Range_Imaging_CVPRW_2022_paper.pdf)
@@ -296,3 +304,4 @@
 - [[vinthony/awesome-deep-hdr]](https://github.com/vinthony/awesome-deep-hdr)
 - HDR sharing image [[hdrihaven]](https://hdrihaven.com/hdris/)
 - [[The-State-of-the-Art-in-HDR-Deghosting]](https://github.com/JimmyChame/The-State-of-the-Art-in-HDR-Deghosting)
+- [[Awesome-HDR]](https://github.com/ytZhang99/Awesome-HDR)
