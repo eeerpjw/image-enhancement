@@ -1,6 +1,5 @@
 # FiveK how-to
-> author : Jinwang Pan cs_pjw@163.com
-
+> author : Jinwang Pan
 
 FiveK dataset can be downloaded from its official website: 
 
