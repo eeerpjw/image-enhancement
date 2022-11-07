@@ -21,6 +21,7 @@
   - no-pair
   - low-light denoising
   - three cameras: Cannon T3i, Cannon S90 and a Xiaomi MI3 mobile phone
+  - [[Paper]](https://arxiv.org/pdf/1409.8230.pdf)
 
 - [**[SID]**](http://vladlen.info/publications/learning-see-dark/) ✅
   - The file name contains the image information. For example, in "10019_00_0.033s.RAF", the first digit "1" means it is from the test set ("0" for training set and "2" for validation set); "0019" is the image ID; the following "00" is the number in the sequence/burst; "0.033s" is the exposure time 1/30 seconds.
@@ -63,7 +64,6 @@
   - download via [[BaiduNetDisk]](https://pan.baidu.com/s/1UxFllrtRSh4E8ir8LdTb9w)(code: wmr1)
 
 - CID
-  - 额，还是工大的
   - https://github.com/505030475/ExtremeLowLight
 
 
