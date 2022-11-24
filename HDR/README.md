@@ -19,10 +19,12 @@
 
 - [**DeepHDR**]Deep High Dynamic Range Imaging with Large Foreground Motions （ECCV 2018）
   - [[TensorFlow code]](https://github.com/elliottwu/DeepHDR)
+  - [[Project]](https://elliottwu.com/projects/18_hdr/)
 - Multi-scale dense networks for deep high dynamic range imaging (WACV 2019)
 
 - [**AHDRNet**] Attention-guided network for ghost-free high dynamic range imaging (CVPR 2019)
   - [[PyTorch Code (Incomplete)]](https://github.com/qingsenyangit/AHDRNet)
+  - [[Project]](https://donggong1.github.io/ahdr.html)
   - [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Attention-Guided_Network_for_Ghost-Free_High_Dynamic_Range_Imaging_CVPR_2019_paper.pdf)
 
 - [**Deep-Deghosting-HDR**] A Fast, Scalable, and Reliable Deghosting Method for Extreme Exposure Fusion (ICCP 2019)
@@ -94,6 +96,9 @@
   - [[Paper]](https://arxiv.org/pdf/2208.05114.pdf)
   - [[Code MegEngine]](https://github.com/megvii-research/HDR-Transformer)
   - [[Code PyTorch]](https://github.com/liuzhen03/HDR-Transformer-PyTorch)
+
+- Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask （ECCV 2022）
+  - [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770292.pdf)
 ### Single Exposure HDR Reconstruction
 
 - [**DrTMO**] Deep reverse tone mapping (TOG 2017）
@@ -305,3 +310,4 @@
 - HDR sharing image [[hdrihaven]](https://hdrihaven.com/hdris/)
 - [[The-State-of-the-Art-in-HDR-Deghosting]](https://github.com/JimmyChame/The-State-of-the-Art-in-HDR-Deghosting)
 - [[Awesome-HDR]](https://github.com/ytZhang99/Awesome-HDR)
+- [[Hans1984/HDR-Collection]](https://github.com/Hans1984/HDR-Collection)
