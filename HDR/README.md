@@ -57,6 +57,11 @@
 - Invertible Tone Mapping with Selectable Styles (ArXiv 2021/9)
   - [[Paper]](https://arxiv.org/abs/2110.04491)
 
+- Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting (CVPR'2021)
+  - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.pdf)
+  - [[TensorFlow code]](https://github.com/Susmit-A/FSHDR)
+  - [K. Ram Prabhakar](https://sites.google.com/view/kramprabhakar/)
+
 - UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data (TCSVT 2022)
   - [[Paper]](https://arxiv.org/pdf/2102.01850.pdf)
 
@@ -125,10 +130,6 @@
 - Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss (ACM SIGGRAPH 2020)
   - [[Paper]](https://arxiv.org/abs/2005.07335)
   - [[Code]](https://github.com/marcelsan/Deep-HdrReconstruction)
-- Labeled from Unlabeled: Exploiting Unlabeled Data for Few-shot Deep HDR Deghosting (CVPR'2021)
-  - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.pdf)
-  - [[TensorFlow code]](https://github.com/Susmit-A/FSHDR)
-  - [K. Ram Prabhakar](https://sites.google.com/view/kramprabhakar/)
 
 - Towards Practical and Efficient High-Resolution HDR Deghosting with CNN (ECCV 2020)
   - [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660494.pdf)
