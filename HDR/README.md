@@ -104,6 +104,20 @@
 
 - Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask （ECCV 2022）
   - [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770292.pdf)
+
+- DomainPlus: Cross Transform Domain Learning towards High Dynamic Range Imaging （ACM MM 2022）
+  - Paper： [https://dl.acm.org/doi/abs/10.1145/3503161.3547823](https://dl.acm.org/doi/abs/10.1145/3503161.3547823)
+
+- HDR Imaging with Spatially Varying Signal-to-Noise Ratios. (CVPR 2023)
+  - Link : [http://arxiv.org/abs/2303.17253](http://arxiv.org/abs/2303.17253)
+
+- SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders. (CVPR 2023)
+  - Link : [http://arxiv.org/abs/2304.06914](http://arxiv.org/abs/2304.06914)
+  
+- A Unified HDR Imaging Method with Pixel and Patch Level. (CVPR 2023)
+  - Link : [http://arxiv.org/abs/2304.06943](http://arxiv.org/abs/2304.06943)
+
+
 ### Single Exposure HDR Reconstruction
 
 - [**DrTMO**] Deep reverse tone mapping (TOG 2017）
@@ -137,11 +151,6 @@
 - Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects (CVPR 2021)
   - [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)
 
-- A New Journey from SDRTV to HDRTV (ICCV 2021)
-  - [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf)
-  - [[Code]](https://github.com/chxy95/HDRTVNet)
-  - [[Dataset HDRTV1K]](../Datasets/README.md)
-
 - Hybrid Saturation Restoration for LDR Images of HDR Scenes (ArXiv 2021/11)
   - [[Paper]](https://arxiv.org/abs/2111.06038)
 
@@ -152,7 +161,63 @@
 
 - Deep Joint Demosaicing and High Dynamic Range Imaging within a Single Shot (TCSVT 2022)
   - [[Paper]](https://arxiv.org/abs/2111.07281)
-  
+
+- A Decoupled Kernel Prediction Network Guided by Soft Mask for Single Image HDR Reconstruction （TOMM 2022）
+  - [https://dl.acm.org/doi/abs/10.1145/3550277](https://dl.acm.org/doi/abs/10.1145/3550277)
+
+- Structure-embedded ghosting artifact suppression network for high dynamic range image reconstruction (KBS 2023)
+  - [Codes](https://github.com/lhf12278/SGARN)
+  - [https://www.sciencedirect.com/science/article/pii/S095070512300028X](https://www.sciencedirect.com/science/article/pii/S095070512300028X)
+
+### HDRTV
+
+- A New Journey from SDRTV to HDRTV (ICCV 2021)
+  - [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf)
+  - [[Code]](https://github.com/chxy95/HDRTVNet)
+  - [[Dataset HDRTV1K]](../Datasets/README.md)
+  - Journal Version: HDRTVNet++
+    -  Towards Efficient SDRTV-to-HDRTV by Learning from Image Formation.
+    - Link : [http://arxiv.org/abs/2309.04084](http://arxiv.org/abs/2309.04084)
+    - [https://github.com/xiaom233/HDRTVNet-plus](https://github.com/xiaom233/HDRTVNet-plus) 
+
+- Hybrid Conditional Deep Inverse Tone Mapping（ACM MM2022）
+  - [[Code]](https://github.com/t-shao/hyconditm)
+
+- SDRTV-to-HDRTV via Hierarchical Dynamic Context Feature Mapping（ACM MM2022）
+  - [https://dl.acm.org/doi/abs/10.1145/3503161.3548043](https://dl.acm.org/doi/abs/10.1145/3503161.3548043)
+
+- Towards Real World HDRTV Reconstruction: A Data Synthesis-based Approach. (ECCV 2022)
+  - Link : [http://arxiv.org/abs/2211.03058](http://arxiv.org/abs/2211.03058)
+
+- Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models. (CVPR 2023)
+  - Link : [http://arxiv.org/abs/2303.13031](http://arxiv.org/abs/2303.13031)
+  - [https://github.com/andreguo/hdrtvdm](https://github.com/andreguo/hdrtvdm)
+
+- Revisiting the Stack-Based Inverse Tone Mapping （CVPR 2023）
+  - [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Revisiting_the_Stack-Based_Inverse_Tone_Mapping_CVPR_2023_paper.pdf)
+
+
+- Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction. (ICCV 2023)
+  - [Paper](http://arxiv.org/abs/2309.03900)
+  - [Code](https://skchen1993.github.io/CEVR_web/)
+
+- Joint Demosaicing and Deghosting of Time-Varying Exposures for Single-Shot HDR Imaging （ICCV 2023）
+  - [Paper](http://www.vclab.kaist.ac.kr/iccv2023/iccv2023-single-shot-hdr-imaging.pdf)
+  - [Code](https://github.com/KAIST-VCLAB/singshot-hdr-demosaicing)
+  - Quad Bayer RAW
+
+- RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image （ICCV 2023）
+  - [Paper](https://arxiv.org/abs/2309.02020)
+  - [Codes](https://github.com/jackzou233/rawhdr)
+
+
+
+### Spatial Variant Exposure （SVE）
+
+- Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging (ECCV 2022)
+  - Paper: [https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf] (https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf)
+  - Code: [https://github.com/viengiaan/EDWL](https://github.com/viengiaan/EDWL)
+
 ### Computional Imaging based Deep Learning Methods
 
 - [**DeepOpticsHDR**]Deep Optics for Single-Shot High-Dynamic-Range Imaging (CVPR2020)
@@ -165,12 +230,18 @@
 
 - Neuromorphic Camera Guided High Dynamic Range Imaging (CVPR2020)
   - [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Han_Neuromorphic_Camera_Guided_High_Dynamic_Range_Imaging_CVPR_2020_paper.pdf)
+  -  Journal Version:（TPAMI 2023） Hybrid High Dynamic Range Imaging fusing Neuromorphic and Conventional Images
+  - [https://github.com/hjynwa/NeurImg-HDR](https://github.com/hjynwa/NeurImg-HDR)
+
 
 - End-to-end High Dynamic Range Camera Pipeline Optimization (CVPR'2021)
   - [[Project]](https://light.princeton.edu/publication/hdr_isp_opt/)
   - [[Paper]](https://light.cs.princeton.edu/wp-content/uploads/2021/04/HDR_ISP_Opt.pdf)
 
-
+- Learning Event Guided High Dynamic Range Video Reconstruction (CVPR 2023)
+  - [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Learning_Event_Guided_High_Dynamic_Range_Video_Reconstruction_CVPR_2023_paper.pdf)
+  - [Project](https://yixinyang-00.github.io/project/hdrev/)
+  - [Code](https://github.com/YixinYang-00/HDRev)
 
 ### Traditional Methods
 
@@ -211,6 +282,17 @@
 - HDRVideo-GAN: Deep Generative HDR Video Reconstruction(ICVGIP 2021)
   - [[Paper]](https://arxiv.org/abs/2110.11795)
 
+- HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset (ICCV 2021)
+  - Code: [https://github.com/guanyingc/DeepHDRVideo-Dataset](https://github.com/ guanyingc/DeepHDRVideo-Dataset)
+  - Project: [https://guanyingc.github.io/DeepHDRVideo/](https://guanyingc.github.io/DeepHDRVideo/)
+
+- Bidirectional Translation between UHD-HDR and HD-SDR Videos (TMM 2023)
+  - [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10025794)
+  - [Code](https://github.com/mdyao/HDR-BiTNet)
+
+- LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction. (ICCV 2023)
+  - [Paper](http://arxiv.org/abs/2308.11116)
+  - [Code](https://github.com/haesoochung/LAN-HDR)
 
 ### Joint HDR with other tasks
 - Deep SR-ITM: Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications (ICCV 2019)
@@ -228,6 +310,10 @@
 - Joint Super-Resolution and Inverse Tone-Mapping: A Feature Decomposition Aggregation Network and A New Benchmark (ArXiv 2022/7)
   - [[Paper]](https://arxiv.org/abs/2207.03367)
 
+- Joint HDR Denoising and Fusion: A Real-World Mobile HDR Image Dataset (CVPR  2023)
+  - [Paper](http://www4. comp.polyu.edu.hk/~cslzhang/paper/CVPR23-Joint-HDRDN.pdf)
+  - [Supp](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR23-Joint-HDRDN-supp.pdf)
+  - [Code](https://github.com/shuaizhengliu/Joint-HDRDN)
 
 ### Challenge & competition
 
