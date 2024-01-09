@@ -17,7 +17,7 @@
 
 - Deep hdr reconstruction of dynamic scenes (ICIVC 2018)
 
-- [**DeepHDR**]Deep High Dynamic Range Imaging with Large Foreground Motions （ECCV 2018）
+- [**DeepHDR**]Deep High Dynamic Range Imaging with Large Foreground Motions (ECCV 2018)
   - [[TensorFlow code]](https://github.com/elliottwu/DeepHDR)
   - [[Project]](https://elliottwu.com/projects/18_hdr/)
 - Multi-scale dense networks for deep high dynamic range imaging (WACV 2019)
@@ -102,10 +102,10 @@
   - [[Code MegEngine]](https://github.com/megvii-research/HDR-Transformer)
   - [[Code PyTorch]](https://github.com/liuzhen03/HDR-Transformer-PyTorch)
 
-- Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask （ECCV 2022）
+- Selective TransHDR: Transformer-Based Selective HDR Imaging Using Ghost Region Mask (ECCV 2022)
   - [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770292.pdf)
 
-- DomainPlus: Cross Transform Domain Learning towards High Dynamic Range Imaging （ACM MM 2022）
+- DomainPlus: Cross Transform Domain Learning towards High Dynamic Range Imaging (ACM MM 2022)
   - Paper： [https://dl.acm.org/doi/abs/10.1145/3503161.3547823](https://dl.acm.org/doi/abs/10.1145/3503161.3547823)
 
 - HDR Imaging with Spatially Varying Signal-to-Noise Ratios. (CVPR 2023)
@@ -120,7 +120,7 @@
 
 ### Single Exposure HDR Reconstruction
 
-- [**DrTMO**] Deep reverse tone mapping (TOG 2017）
+- [**DrTMO**] Deep reverse tone mapping (TOG 2017)
   - [[Project]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
   - [[Chainer code in python]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/Codes/DrTMO.zip)
 
@@ -130,14 +130,14 @@
 - [**ExpandNet**] ExpandNet: A Deep Convolutional Neural Network for High Dynamic Range Expansion from Low Dynamic Range Content (CGF 2018)
   - [[PyTorch code]](https://github.com/dmarnerides/hdr-expandnet)
 
-- Deep Recursive HDRI: Inverse Tone Mapping using Generative Adversarial Networks（ECCV2018）
+- Deep Recursive HDRI: Inverse Tone Mapping using Generative Adversarial Networks(ECCV2018)
   - [[Paper]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Siyeong_Lee_Deep_Recursive_HDRI_ECCV_2018_paper.pdf)
   - [[PyTorch code]](https://github.com/Siyeong-Lee/Deep_Recursive_HDRI)
 
 - [**UnModNet**] UnModNet: Learning to Unwrap a Modulo Image for High Dynamic Range Imaging (NeurIPS 2020)
   - [[PyTorch code]](https://github.com/fourson/UnModNet)
 
-- [**SingleHDR**] Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline （CVPR2020）
+- [**SingleHDR**] Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (CVPR2020)
   - [[Project page]](https://alex04072000.github.io/SingleHDR/)
   - [[TensorFlow code]](https://github.com/alex04072000/SingleHDR)
   - [[Very Large Dataset]](https://alex04072000.github.io/SingleHDR/)
@@ -162,7 +162,7 @@
 - Deep Joint Demosaicing and High Dynamic Range Imaging within a Single Shot (TCSVT 2022)
   - [[Paper]](https://arxiv.org/abs/2111.07281)
 
-- A Decoupled Kernel Prediction Network Guided by Soft Mask for Single Image HDR Reconstruction （TOMM 2022）
+- A Decoupled Kernel Prediction Network Guided by Soft Mask for Single Image HDR Reconstruction (TOMM 2022)
   - [https://dl.acm.org/doi/abs/10.1145/3550277](https://dl.acm.org/doi/abs/10.1145/3550277)
 
 - Structure-embedded ghosting artifact suppression network for high dynamic range image reconstruction (KBS 2023)
@@ -180,10 +180,10 @@
     - Link : [http://arxiv.org/abs/2309.04084](http://arxiv.org/abs/2309.04084)
     - [https://github.com/xiaom233/HDRTVNet-plus](https://github.com/xiaom233/HDRTVNet-plus) 
 
-- Hybrid Conditional Deep Inverse Tone Mapping（ACM MM2022）
+- Hybrid Conditional Deep Inverse Tone Mapping(ACM MM2022)
   - [[Code]](https://github.com/t-shao/hyconditm)
 
-- SDRTV-to-HDRTV via Hierarchical Dynamic Context Feature Mapping（ACM MM2022）
+- SDRTV-to-HDRTV via Hierarchical Dynamic Context Feature Mapping(ACM MM2022)
   - [https://dl.acm.org/doi/abs/10.1145/3503161.3548043](https://dl.acm.org/doi/abs/10.1145/3503161.3548043)
 
 - Towards Real World HDRTV Reconstruction: A Data Synthesis-based Approach. (ECCV 2022)
@@ -193,7 +193,7 @@
   - Link : [http://arxiv.org/abs/2303.13031](http://arxiv.org/abs/2303.13031)
   - [https://github.com/andreguo/hdrtvdm](https://github.com/andreguo/hdrtvdm)
 
-- Revisiting the Stack-Based Inverse Tone Mapping （CVPR 2023）
+- Revisiting the Stack-Based Inverse Tone Mapping (CVPR 2023)
   - [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Revisiting_the_Stack-Based_Inverse_Tone_Mapping_CVPR_2023_paper.pdf)
 
 
@@ -201,18 +201,18 @@
   - [Paper](http://arxiv.org/abs/2309.03900)
   - [Code](https://skchen1993.github.io/CEVR_web/)
 
-- Joint Demosaicing and Deghosting of Time-Varying Exposures for Single-Shot HDR Imaging （ICCV 2023）
+- Joint Demosaicing and Deghosting of Time-Varying Exposures for Single-Shot HDR Imaging (ICCV 2023)
   - [Paper](http://www.vclab.kaist.ac.kr/iccv2023/iccv2023-single-shot-hdr-imaging.pdf)
   - [Code](https://github.com/KAIST-VCLAB/singshot-hdr-demosaicing)
   - Quad Bayer RAW
 
-- RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image （ICCV 2023）
+- RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image (ICCV 2023)
   - [Paper](https://arxiv.org/abs/2309.02020)
   - [Codes](https://github.com/jackzou233/rawhdr)
 
 
 
-### Spatial Variant Exposure （SVE）
+### Spatial Variant Exposure (SVE)
 
 - Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging (ECCV 2022)
   - Paper: [https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf] (https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf)
@@ -230,7 +230,7 @@
 
 - Neuromorphic Camera Guided High Dynamic Range Imaging (CVPR2020)
   - [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Han_Neuromorphic_Camera_Guided_High_Dynamic_Range_Imaging_CVPR_2020_paper.pdf)
-  -  Journal Version:（TPAMI 2023） Hybrid High Dynamic Range Imaging fusing Neuromorphic and Conventional Images
+  -  Journal Version:(TPAMI 2023) Hybrid High Dynamic Range Imaging fusing Neuromorphic and Conventional Images
   - [https://github.com/hjynwa/NeurImg-HDR](https://github.com/hjynwa/NeurImg-HDR)
 
 
