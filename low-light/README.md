@@ -263,14 +263,10 @@ A list of low light image reconstruction related works.
 - **SSIM**
 - **PSNR**
 - **NIQE** [[code]](https://github.com/csjunxu/Bovik_NIQE_SPL2013)
-- **LOE**
-- **VIF**
+- **LOE (Lightness Order Error)**
+- **VIF (Visual Information Fidelity)** [[Project Page]](https://live.ece.utexas.edu/research/quality/VIF.htm)
+- **PI** [[code]](https://github.com/chaoma99/sr-metric)
 
-## Researcher
-
-- [[Wenhan yang]](https://flyywh.github.io/Publication.html)
-- [[Yu Li (李昱)]](https://yu-li.github.io/) at Tencent ARC Lab
-- [[Mohit Lamba]](https://mohitlamba94.github.io/about-me/) Research scholar at IIT MADRAS, INDIA
 
 ## Links
 
