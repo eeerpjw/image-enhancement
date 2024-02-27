@@ -10,7 +10,6 @@ A list of low light image reconstruction related works.
   - [[Platform] Lighting the Darkness in the Deep Learning Era](http://mc.nankai.edu.cn/ll/)
   - [[Project]](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open/) **A sound survey including methods with codes and datasets !**
   - [[Dataset] LoLi-Phone (3.4G)](https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view)
-  - [[Chongyi Li(李重仪)]](https://li-chongyi.github.io/)
 
 ## Traditional Methods
 
@@ -42,7 +41,6 @@ A list of low light image reconstruction related works.
 - [**SRIE**] A weighted variational model for simultaneous reflectance and illumination estimation (CVPR 2016)
   - Fu X, Zeng D, Huang Y, et al. A weighted variational model for simultaneous reflectance and illumination estimation[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 2782-2790.
   - [[Matlab code]](https://xueyangfu.github.io/paper/2016/cvpr/Matlab_implementation.zip)
-  - [[Xueyang Fu (傅雪阳)]](https://xueyangfu.github.io/)
   - [[PDF]](https://xueyangfu.github.io/paper/2016/cvpr/cvpr2016.pdf)
 
 - [**MF**] A Fusion-based Enhancing Method for Weakly Illuminated Images
@@ -104,7 +102,6 @@ A list of low light image reconstruction related works.
 - LightenNet: a convolutional neural network for weakly illuminated image enhancement (Pattern Recognition Letter 2018)
   - [[Project]](https://li-chongyi.github.io/proj_lowlight.html)
   - [[code]](https://github.com/Li-Chongyi/Low-Light-Codes)
-  - [[Chongyi Li(李重仪)]](https://li-chongyi.github.io/)
 
 - [**HybridNet**]Low-Light Image Enhancement via a Deep Hybrid Network (TIP 2019)
   - Ren W, Liu S, Ma L, et al. Low-light image enhancement via a deep hybrid network[J]. IEEE Transactions on Image Processing, 2019, 28(9): 4364-4375.
@@ -202,7 +199,6 @@ A list of low light image reconstruction related works.
   - Zhang F, Li Y, You S, et al. Learning Temporal Consistency for Low Light Video Enhancement From Single Images[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 4967-4976
   - [[PyTorch code]](https://github.com/zkawfanx/StableLLVE)
   - [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_Temporal_Consistency_for_Low_Light_Video_Enhancement_From_Single_CVPR_2021_paper.pdf)
-  - [[Yu Li (李昱)]](https://yu-li.github.io/)
 
 - [**RAUS**] Retinex-Inspired Unrolling with Cooperative Prior Architecture Search for Low-Light Image Enhancement (CVPR'2021)
   - Liu R, Ma L, Zhang J, et al. Retinex-inspired unrolling with cooperative prior architecture search for low-light image enhancement[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 10561-10570.
@@ -215,7 +211,6 @@ A list of low light image reconstruction related works.
   - [[TensorFlow code (only for testing)]](https://github.com/yu-li/AGLLNet)
   - [[Synthetic Dataset(Baidu Drive password: os9v)]](https://pan.baidu.com/s/1SID1MOQJjQjV99QeHy1hPg)
   - [[PDF]](https://arxiv.org/pdf/1908.00682.pdf)
-  - [[Yu Li (李昱)]](https://yu-li.github.io/)
 
 - Learning Multi-Scale Photo Exposure Correction (CVPR 2021)
   - [[PyTorch code]](https://github.com/mahmoudnafifi/Exposure_Correction)
