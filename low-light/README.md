@@ -84,7 +84,6 @@ A list of low light image reconstruction related works.
   - Feifan Lv, Yu Li and Feng Lu. Attention-guided Low-light Image Enhancement. arXiv:1908.00682.
   - [[Project page]](http://phi-ai.org/project/AgLLNet/default.htm) [[No released code]]
   - [[PDF]](https://arxiv.org/abs/1908.00682)
-  - 参见[**AgLLNet**] TIP没中，改投的IJCV，太水了
 
 - [**SID**] Learning to see in the dark (CVPR 2018)
   - Chen, Chen, et al. "Learning to see in the dark." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
@@ -220,7 +219,7 @@ A list of low light image reconstruction related works.
 - [[Project]](https://taowangzj.github.io/projects/LLFormer/)
 - [[code]](https://github.com/taowangzj/llformer)
 - [[Paper]](https://arxiv.org/abs/2212.11548)
-- [[Dataset]](https://taowangzj.github.io/projects/LLFormer/))
+- [[Dataset]](https://taowangzj.github.io/projects/LLFormer/)
 
 
 ## Low-light Denoising
